@@ -1,0 +1,1692 @@
+gender,age,marital_status,highest_qualification,nationality,ethnicity,region,avg_salary,smoke
+Male,38,Divorced,No Qualification,British,White,The North,3900.0,No
+Female,42,Single,No Qualification,British,White,The North,1300.0,Yes
+Male,40,Married,Degree,English,White,The North,32500.0,No
+Female,40,Married,Degree,English,White,The North,13000.0,No
+Female,39,Married,GCSE/O Level,British,White,The North,3900.0,No
+Female,37,Married,GCSE/O Level,British,White,The North,18200.0,No
+Male,53,Married,Degree,British,White,The North,18200.0,Yes
+Male,44,Single,Degree,English,White,The North,13000.0,No
+Male,40,Single,GCSE/CSE,English,White,The North,3900.0,Yes
+Female,41,Married,No Qualification,English,White,The North,7800.0,Yes
+Male,72,Widowed,No Qualification,English,White,The North,13000.0,No
+Male,49,Married,No Qualification,British,White,The North,0.0,No
+Male,29,Married,Degree,English,White,The North,18200.0,No
+Female,79,Widowed,No Qualification,English,White,The North,13000.0,No
+Male,25,Single,Degree,English,White,The North,18200.0,No
+Female,27,Single,Degree,English,White,The North,18200.0,No
+Female,30,Single,Degree,English,White,The North,24700.0,No
+Male,47,Divorced,No Qualification,British,White,The North,13000.0,No
+Female,69,Single,Other/Sub Degree,English,White,The North,3900.0,No
+Male,55,Married,No Qualification,English,White,The North,24700.0,No
+Female,34,Married,GCSE/CSE,British,White,The North,3900.0,Yes
+Female,36,Married,GCSE/O Level,English,White,The North,7800.0,Yes
+Female,56,Married,No Qualification,English,White,The North,3900.0,Yes
+Male,71,Divorced,No Qualification,English,White,The North,0.0,No
+Female,38,Married,No Qualification,English,White,The North,7800.0,No
+Female,79,Married,No Qualification,English,White,The North,1300.0,No
+Female,58,Divorced,No Qualification,English,White,The North,7800.0,Yes
+Female,69,Married,No Qualification,British,White,The North,1300.0,No
+Male,83,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,73,Widowed,No Qualification,English,White,The North,7800.0,No
+Female,42,Married,GCSE/O Level,British,White,The North,0.0,Yes
+Female,31,Married,GCSE/CSE,English,White,The North,1300.0,Yes
+Male,26,Single,GCSE/CSE,English,White,The North,3900.0,No
+Female,27,Separated,Degree,English,White,The North,18200.0,No
+Female,57,Married,Higher/Sub Degree,English,White,The North,13000.0,No
+Female,30,Married,ONC/BTEC,English,White,The North,3900.0,No
+Female,22,Single,A Levels,English,White,The North,7800.0,No
+Female,78,Widowed,No Qualification,English,White,The North,1300.0,Yes
+Female,49,Married,ONC/BTEC,English,Mixed,The North,18200.0,No
+Male,74,Married,Other/Sub Degree,English,White,The North,18200.0,No
+Male,85,Widowed,Degree,Scottish,White,The North,24700.0,No
+Male,75,Married,Other/Sub Degree,English,White,The North,0.0,No
+Female,80,Widowed,GCSE/O Level,British,White,The North,3900.0,No
+Female,37,Married,Degree,British,White,The North,1300.0,No
+Female,33,Single,Degree,British,White,The North,13000.0,No
+Male,41,Divorced,A Levels,English,White,The North,18200.0,No
+Female,81,Widowed,No Qualification,British,White,The North,3900.0,No
+Female,76,Widowed,No Qualification,English,White,The North,3900.0,Yes
+Female,58,Married,A Levels,British,White,The North,13000.0,No
+Male,59,Married,Other/Sub Degree,English,White,The North,18200.0,Yes
+Female,40,Divorced,GCSE/O Level,English,White,The North,7800.0,Yes
+Female,54,Divorced,GCSE/O Level,British,White,The North,13000.0,No
+Male,49,Married,Degree,Scottish,White,The North,18200.0,No
+Female,79,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,28,Married,Other/Sub Degree,British,White,The North,24700.0,Yes
+Male,44,Married,Other/Sub Degree,English,White,The North,7800.0,No
+Female,42,Single,GCSE/CSE,British,White,The North,13000.0,No
+Female,36,Single,GCSE/CSE,British,White,The North,7800.0,No
+Male,89,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,64,Married,No Qualification,British,White,The North,3900.0,No
+Female,76,Married,No Qualification,English,White,The North,1300.0,No
+Female,76,Married,No Qualification,English,White,The North,1300.0,No
+Female,61,Married,No Qualification,English,White,The North,3900.0,No
+Female,81,Widowed,GCSE/O Level,English,White,The North,7800.0,No
+Female,20,Single,No Qualification,British,White,The North,3900.0,Yes
+Female,82,Widowed,No Qualification,English,White,The North,7800.0,No
+Female,23,Single,GCSE/O Level,British,White,The North,7800.0,Yes
+Male,41,Married,GCSE/O Level,English,White,The North,18200.0,No
+Female,31,Single,A Levels,British,White,The North,18200.0,No
+Female,44,Married,A Levels,English,White,The North,24700.0,Yes
+Female,42,Married,Degree,Scottish,White,The North,13000.0,No
+Male,67,Widowed,No Qualification,British,White,The North,7800.0,Yes
+Male,53,Married,Degree,English,White,The North,24700.0,No
+Male,76,Married,No Qualification,English,Black,The North,13000.0,No
+Male,40,Married,Other/Sub Degree,English,White,The North,3900.0,Yes
+Male,44,Married,A Levels,British,White,The North,18200.0,No
+Female,31,Separated,GCSE/O Level,British,White,The North,18200.0,Yes
+Male,43,Divorced,Other/Sub Degree,English,White,The North,3900.0,Yes
+Female,36,Separated,A Levels,British,White,The North,13000.0,No
+Female,34,Divorced,GCSE/O Level,British,White,The North,13000.0,No
+Female,18,Single,GCSE/O Level,English,White,The North,3900.0,Yes
+Male,56,Married,No Qualification,English,White,The North,7800.0,No
+Female,73,Married,No Qualification,British,White,The North,1300.0,No
+Female,22,Single,GCSE/CSE,English,White,The North,3900.0,Yes
+Female,33,Single,GCSE/CSE,English,White,The North,18200.0,No
+Male,27,Single,ONC/BTEC,British,White,The North,18200.0,Yes
+Female,33,Married,GCSE/O Level,British,White,The North,13000.0,No
+Female,63,Married,No Qualification,English,White,The North,1300.0,No
+Female,64,Married,A Levels,British,White,The North,3900.0,No
+Male,54,Married,Degree,British,White,The North,18200.0,No
+Female,34,Married,Degree,English,White,The North,1300.0,No
+Male,78,Married,No Qualification,English,White,The North,13000.0,No
+Female,54,Married,No Qualification,British,White,The North,1300.0,No
+Male,56,Separated,GCSE/CSE,English,White,The North,32500.0,No
+Male,78,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,37,Married,A Levels,British,White,The North,7800.0,No
+Male,54,Married,Degree,British,White,The North,32500.0,No
+Female,40,Married,GCSE/O Level,British,White,The North,24700.0,Yes
+Female,64,Divorced,No Qualification,English,White,The North,3900.0,No
+Female,42,Married,GCSE/O Level,Other,White,The North,7800.0,No
+Female,34,Married,Higher/Sub Degree,British,White,The North,3900.0,No
+Female,64,Married,No Qualification,English,White,The North,1300.0,No
+Female,50,Divorced,Other/Sub Degree,English,White,The North,18200.0,No
+Female,31,Married,ONC/BTEC,English,White,The North,13000.0,No
+Female,37,Married,Degree,English,White,The North,18200.0,No
+Male,81,Married,Degree,English,White,The North,13000.0,No
+Male,57,Separated,No Qualification,Welsh,White,The North,7800.0,Yes
+Female,59,Married,Higher/Sub Degree,English,White,The North,3900.0,No
+Male,66,Married,Degree,English,White,The North,24700.0,No
+Male,57,Married,No Qualification,English,White,The North,24700.0,No
+Female,78,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,49,Married,Degree,English,White,The North,24700.0,No
+Female,62,Married,GCSE/O Level,English,White,The North,18200.0,No
+Female,17,Single,GCSE/CSE,English,White,The North,3900.0,No
+Female,36,Single,GCSE/O Level,English,White,The North,18200.0,No
+Female,31,Single,No Qualification,English,White,The North,0.0,Yes
+Female,61,Married,Higher/Sub Degree,English,White,The North,18200.0,Yes
+Male,71,Widowed,No Qualification,English,White,The North,18200.0,Yes
+Female,75,Widowed,No Qualification,English,White,The North,7800.0,Yes
+Female,43,Married,Higher/Sub Degree,English,White,The North,18200.0,No
+Female,68,Widowed,No Qualification,English,White,The North,0.0,No
+Female,65,Widowed,Degree,English,White,The North,18200.0,No
+Female,85,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,35,Separated,GCSE/O Level,English,White,The North,7800.0,Yes
+Female,52,Married,Higher/Sub Degree,British,White,The North,18200.0,No
+Female,28,Single,ONC/BTEC,English,White,The North,7800.0,Yes
+Male,52,Single,ONC/BTEC,English,White,The North,24700.0,No
+Male,67,Widowed,No Qualification,Irish,White,The North,7800.0,Yes
+Female,35,Divorced,No Qualification,English,White,The North,7800.0,Yes
+Female,68,Married,No Qualification,English,White,The North,3900.0,No
+Female,34,Married,Higher/Sub Degree,Other,White,The North,13000.0,No
+Female,57,Divorced,No Qualification,British,White,The North,3900.0,Yes
+Male,37,Married,Higher/Sub Degree,English,White,The North,18200.0,Yes
+Female,37,Divorced,No Qualification,English,White,The North,7800.0,Yes
+Male,43,Divorced,No Qualification,British,White,The North,13000.0,Yes
+Male,59,Widowed,GCSE/O Level,British,White,The North,3900.0,No
+Female,28,Single,Degree,Scottish,White,The North,13000.0,No
+Female,60,Married,No Qualification,English,White,The North,7800.0,No
+Male,16,Single,GCSE/O Level,British,White,The North,1300.0,No
+Male,37,Single,No Qualification,British,White,The North,3900.0,Yes
+Male,34,Married,No Qualification,English,White,The North,18200.0,No
+Female,73,Married,No Qualification,British,White,The North,7800.0,No
+Male,24,Single,GCSE/O Level,English,White,The North,13000.0,No
+Female,36,Single,Higher/Sub Degree,British,White,The North,18200.0,No
+Male,39,Separated,GCSE/O Level,British,White,The North,13000.0,Yes
+Female,74,Married,No Qualification,English,White,The North,0.0,No
+Female,32,Married,GCSE/CSE,English,White,The North,1300.0,Yes
+Female,30,Married,Degree,Other,White,The North,18200.0,No
+Female,68,Married,GCSE/O Level,English,White,The North,18200.0,No
+Female,49,Married,No Qualification,Refused,Refused,The North,0.0,No
+Female,47,Married,Higher/Sub Degree,English,White,The North,3900.0,No
+Male,30,Single,Higher/Sub Degree,British,White,The North,13000.0,Yes
+Male,60,Divorced,No Qualification,English,White,The North,13000.0,Yes
+Male,72,Single,Other/Sub Degree,English,White,The North,18200.0,No
+Male,73,Married,Degree,English,White,The North,13000.0,No
+Female,48,Widowed,GCSE/O Level,English,White,The North,13000.0,Yes
+Male,53,Divorced,Degree,English,White,The North,18200.0,No
+Male,17,Single,GCSE/O Level,English,White,The North,0.0,No
+Female,58,Married,GCSE/O Level,English,White,The North,7800.0,No
+Female,34,Married,ONC/BTEC,English,White,The North,13000.0,No
+Male,44,Single,GCSE/O Level,British,White,The North,18200.0,No
+Male,23,Single,No Qualification,English,White,The North,7800.0,No
+Male,49,Married,Degree,British,White,The North,24700.0,No
+Male,30,Married,Degree,British,White,The North,18200.0,No
+Female,61,Widowed,GCSE/O Level,English,White,The North,7800.0,No
+Male,38,Separated,A Levels,British,White,The North,13000.0,Yes
+Male,30,Single,Degree,British,White,The North,13000.0,No
+Female,44,Married,A Levels,English,White,The North,18200.0,No
+Male,91,Widowed,No Qualification,English,White,The North,1300.0,No
+Male,40,Divorced,GCSE/O Level,British,White,The North,18200.0,No
+Female,63,Married,Degree,British,White,The North,3900.0,No
+Female,61,Divorced,No Qualification,British,White,The North,3900.0,Yes
+Female,40,Married,Higher/Sub Degree,English,White,The North,7800.0,No
+Female,57,Married,No Qualification,British,White,The North,1300.0,Yes
+Female,41,Married,Degree,British,White,The North,32500.0,No
+Female,32,Single,No Qualification,English,White,The North,3900.0,Yes
+Male,76,Married,No Qualification,English,White,The North,7800.0,No
+Female,35,Divorced,GCSE/O Level,English,White,The North,13000.0,Yes
+Male,70,Married,No Qualification,English,White,The North,7800.0,No
+Female,75,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,74,Widowed,No Qualification,English,White,The North,3900.0,No
+Male,49,Married,Degree,British,White,The North,18200.0,No
+Female,56,Married,GCSE/O Level,British,White,The North,1300.0,No
+Male,60,Married,Degree,English,White,The North,18200.0,No
+Female,72,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,17,Single,GCSE/O Level,English,White,The North,7800.0,No
+Female,23,Single,Degree,English,White,The North,24700.0,No
+Male,79,Married,No Qualification,English,White,The North,7800.0,No
+Female,65,Separated,No Qualification,British,White,The North,3900.0,No
+Female,57,Married,Degree,English,White,The North,7800.0,No
+Female,37,Married,GCSE/O Level,British,White,The North,18200.0,No
+Male,79,Single,No Qualification,English,White,The North,7800.0,No
+Female,71,Single,No Qualification,English,White,The North,3900.0,No
+Female,87,Widowed,No Qualification,Refused,Refused,The North,0.0,No
+Male,59,Married,Degree,English,White,The North,32500.0,Yes
+Male,21,Single,ONC/BTEC,English,White,The North,13000.0,Yes
+Female,66,Married,No Qualification,English,White,The North,1300.0,No
+Male,58,Married,Higher/Sub Degree,Welsh,White,The North,32500.0,No
+Male,38,Married,GCSE/O Level,English,White,The North,18200.0,Yes
+Male,61,Widowed,Other/Sub Degree,Scottish,White,The North,18200.0,No
+Male,37,Separated,Degree,English,White,The North,18200.0,No
+Female,38,Married,GCSE/O Level,English,White,The North,7800.0,No
+Male,34,Married,Degree,English,White,The North,32500.0,No
+Female,34,Married,Higher/Sub Degree,British,White,The North,13000.0,No
+Female,20,Single,GCSE/O Level,English,White,The North,3900.0,No
+Female,77,Widowed,No Qualification,English,White,The North,7800.0,Yes
+Female,31,Single,GCSE/O Level,English,White,The North,3900.0,Yes
+Male,28,Single,No Qualification,English,White,The North,3900.0,Yes
+Female,36,Married,GCSE/CSE,British,White,The North,7800.0,No
+Female,16,Single,GCSE/O Level,British,White,The North,7800.0,Yes
+Male,42,Married,GCSE/O Level,English,White,The North,7800.0,No
+Female,47,Married,Higher/Sub Degree,English,White,The North,1300.0,No
+Male,42,Married,GCSE/CSE,British,White,The North,32500.0,No
+Female,67,Widowed,No Qualification,British,White,The North,3900.0,No
+Female,72,Single,No Qualification,English,White,The North,7800.0,No
+Male,40,Divorced,GCSE/O Level,English,White,The North,13000.0,Yes
+Female,34,Single,Degree,English,White,The North,18200.0,No
+Male,75,Married,No Qualification,English,White,The North,18200.0,No
+Female,35,Married,GCSE/O Level,English,White,The North,7800.0,No
+Female,40,Separated,No Qualification,British,White,The North,7800.0,Yes
+Female,46,Married,No Qualification,British,White,The North,18200.0,No
+Male,23,Married,GCSE/O Level,English,White,The North,18200.0,No
+Male,42,Married,GCSE/O Level,British,White,The North,13000.0,No
+Male,63,Married,No Qualification,English,White,The North,3900.0,No
+Female,33,Married,A Levels,British,White,The North,7800.0,No
+Female,31,Married,GCSE/O Level,English,White,The North,18200.0,No
+Male,54,Single,No Qualification,English,White,The North,7800.0,No
+Female,33,Single,ONC/BTEC,British,White,The North,18200.0,No
+Female,24,Single,Degree,English,White,The North,18200.0,Yes
+Female,80,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,77,Single,No Qualification,English,White,The North,3900.0,No
+Male,51,Married,No Qualification,English,White,The North,13000.0,No
+Male,16,Single,GCSE/O Level,English,White,The North,0.0,No
+Male,27,Single,ONC/BTEC,English,White,The North,0.0,Yes
+Female,75,Single,No Qualification,English,White,The North,3900.0,No
+Female,24,Single,Degree,Other,White,The North,7800.0,No
+Male,78,Widowed,No Qualification,English,White,The North,7800.0,Yes
+Female,20,Single,GCSE/O Level,British,White,The North,7800.0,No
+Male,18,Single,GCSE/CSE,English,White,The North,7800.0,No
+Female,25,Separated,ONC/BTEC,English,White,The North,13000.0,No
+Female,55,Separated,No Qualification,English,Mixed,The North,7800.0,Yes
+Female,29,Married,Higher/Sub Degree,English,White,The North,13000.0,Yes
+Female,67,Divorced,No Qualification,English,White,The North,7800.0,No
+Female,79,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,44,Single,No Qualification,British,White,The North,24700.0,No
+Male,47,Married,Degree,British,White,The North,24700.0,No
+Female,41,Divorced,GCSE/O Level,British,White,The North,13000.0,No
+Female,31,Married,GCSE/O Level,British,White,The North,13000.0,Yes
+Male,32,Married,Other/Sub Degree,Scottish,White,The North,13000.0,No
+Female,68,Widowed,No Qualification,English,White,The North,0.0,No
+Female,84,Widowed,No Qualification,British,White,The North,1300.0,No
+Male,67,Married,No Qualification,English,White,The North,13000.0,No
+Male,49,Married,No Qualification,British,White,The North,13000.0,No
+Male,69,Married,No Qualification,English,White,The North,7800.0,Yes
+Male,64,Married,Higher/Sub Degree,English,White,The North,32500.0,Yes
+Male,62,Married,No Qualification,English,White,The North,24700.0,No
+Male,52,Divorced,No Qualification,British,White,The North,7800.0,No
+Male,45,Married,ONC/BTEC,English,White,The North,32500.0,No
+Female,28,Divorced,No Qualification,English,White,The North,13000.0,Yes
+Female,36,Single,GCSE/O Level,English,White,The North,13000.0,No
+Female,73,Divorced,No Qualification,English,White,The North,7800.0,No
+Male,48,Widowed,No Qualification,English,White,The North,13000.0,No
+Male,67,Widowed,No Qualification,British,White,The North,13000.0,Yes
+Female,38,Divorced,GCSE/O Level,British,White,The North,24700.0,No
+Female,40,Divorced,GCSE/CSE,English,White,The North,13000.0,Yes
+Male,43,Single,Other/Sub Degree,British,White,The North,18200.0,No
+Female,30,Single,Degree,English,White,The North,13000.0,No
+Female,70,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,82,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,78,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,21,Single,GCSE/O Level,English,White,The North,1300.0,Yes
+Male,67,Widowed,No Qualification,English,White,The North,18200.0,No
+Male,16,Single,GCSE/O Level,English,White,The North,0.0,No
+Female,21,Single,GCSE/CSE,English,White,The North,7800.0,Yes
+Male,68,Separated,No Qualification,English,White,The North,7800.0,Yes
+Male,41,Married,No Qualification,British,White,The North,3900.0,Yes
+Male,33,Single,GCSE/O Level,British,White,The North,18200.0,No
+Female,28,Married,No Qualification,British,White,The North,1300.0,No
+Female,75,Married,No Qualification,British,White,The North,3900.0,Yes
+Female,21,Single,Other/Sub Degree,English,White,The North,7800.0,Yes
+Female,69,Divorced,GCSE/CSE,English,White,The North,3900.0,No
+Female,38,Married,GCSE/O Level,English,White,The North,7800.0,No
+Female,33,Single,GCSE/O Level,English,White,The North,7800.0,Yes
+Female,47,Married,No Qualification,English,White,The North,7800.0,No
+Female,44,Single,GCSE/CSE,English,White,The North,3900.0,Yes
+Female,74,Married,No Qualification,English,White,The North,1300.0,No
+Female,29,Married,GCSE/O Level,English,White,The North,1300.0,No
+Female,23,Married,A Levels,Other,Asian,The North,1300.0,No
+Female,72,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,31,Widowed,No Qualification,English,Asian,The North,7800.0,Yes
+Female,48,Married,No Qualification,British,Asian,The North,1300.0,No
+Female,29,Married,GCSE/O Level,English,White,The North,7800.0,No
+Male,72,Married,Other/Sub Degree,English,Black,The North,7800.0,No
+Female,52,Married,No Qualification,English,White,The North,0.0,No
+Female,68,Single,Degree,English,White,The North,7800.0,No
+Male,48,Married,Other/Sub Degree,British,Chinese,The North,18200.0,Yes
+Female,55,Married,GCSE/O Level,English,White,The North,13000.0,No
+Female,23,Married,ONC/BTEC,British,White,The North,13000.0,Yes
+Female,66,Widowed,No Qualification,British,White,The North,3900.0,No
+Female,33,Single,ONC/BTEC,British,White,The North,18200.0,No
+Female,37,Married,GCSE/CSE,British,White,The North,1300.0,Yes
+Male,42,Married,Degree,English,White,The North,24700.0,No
+Female,46,Married,No Qualification,British,White,The North,13000.0,Yes
+Male,57,Married,Other/Sub Degree,English,White,The North,32500.0,No
+Female,36,Married,GCSE/O Level,English,White,The North,1300.0,No
+Female,51,Married,GCSE/O Level,Scottish,White,The North,24700.0,No
+Female,18,Single,GCSE/O Level,British,White,The North,0.0,Yes
+Female,69,Married,GCSE/O Level,English,White,The North,1300.0,No
+Male,30,Single,Degree,English,White,The North,18200.0,No
+Male,51,Married,Higher/Sub Degree,English,White,The North,32500.0,No
+Female,63,Married,No Qualification,British,Asian,The North,7800.0,No
+Female,31,Single,Degree,English,White,The North,32500.0,No
+Male,58,Single,No Qualification,British,White,The North,13000.0,No
+Male,50,Married,GCSE/CSE,English,White,The North,24700.0,Yes
+Female,67,Divorced,No Qualification,English,White,The North,3900.0,Yes
+Male,20,Single,A Levels,English,White,The North,0.0,No
+Female,45,Single,Degree,British,White,The North,18200.0,No
+Female,26,Married,GCSE/O Level,English,White,The North,7800.0,No
+Male,30,Single,Degree,British,White,The North,32500.0,No
+Female,43,Married,Degree,Other,White,The North,0.0,No
+Male,73,Widowed,Other/Sub Degree,English,White,The North,3900.0,No
+Female,52,Married,Higher/Sub Degree,British,White,The North,1300.0,No
+Male,18,Single,No Qualification,British,White,The North,13000.0,Yes
+Male,52,Married,No Qualification,English,White,The North,32500.0,No
+Male,33,Divorced,GCSE/O Level,English,White,The North,18200.0,No
+Female,56,Divorced,GCSE/O Level,English,White,The North,18200.0,No
+Female,65,Married,No Qualification,English,White,The North,3900.0,No
+Female,30,Single,No Qualification,British,White,The North,3900.0,No
+Female,40,Married,No Qualification,British,White,The North,7800.0,Yes
+Female,26,Single,GCSE/CSE,English,White,The North,7800.0,Yes
+Male,74,Single,No Qualification,Refused,Refused,The North,0.0,No
+Female,44,Married,Degree,Welsh,White,The North,32500.0,No
+Female,80,Widowed,No Qualification,British,White,The North,3900.0,No
+Female,67,Married,No Qualification,English,White,The North,1300.0,No
+Female,59,Married,No Qualification,British,White,The North,0.0,No
+Female,28,Single,Higher/Sub Degree,English,White,The North,7800.0,Yes
+Female,31,Married,ONC/BTEC,British,White,The North,18200.0,No
+Male,25,Single,GCSE/CSE,English,White,The North,18200.0,No
+Female,64,Married,No Qualification,English,White,The North,1300.0,No
+Male,68,Married,Other/Sub Degree,English,White,The North,3900.0,No
+Female,61,Widowed,No Qualification,English,White,The North,7800.0,No
+Female,50,Divorced,No Qualification,English,White,The North,13000.0,No
+Male,43,Married,Higher/Sub Degree,British,Chinese,The North,18200.0,No
+Female,19,Single,No Qualification,Other,Asian,The North,1300.0,No
+Female,21,Married,GCSE/O Level,Other,Asian,The North,1300.0,No
+Male,51,Divorced,Degree,English,White,The North,3900.0,No
+Male,65,Single,Other/Sub Degree,British,White,The North,7800.0,No
+Female,50,Separated,No Qualification,Other,Asian,The North,3900.0,No
+Female,38,Single,Other/Sub Degree,English,White,The North,3900.0,No
+Female,78,Widowed,No Qualification,English,White,The North,7800.0,No
+Male,74,Widowed,No Qualification,Other,Asian,The North,3900.0,No
+Female,22,Single,Degree,Other,Asian,The North,3900.0,No
+Male,66,Married,No Qualification,British,White,The North,7800.0,No
+Female,48,Single,No Qualification,English,White,The North,3900.0,No
+Female,59,Married,No Qualification,English,White,The North,7800.0,No
+Female,69,Widowed,No Qualification,English,White,The North,0.0,No
+Female,76,Widowed,No Qualification,British,White,The North,7800.0,Yes
+Female,21,Single,ONC/BTEC,British,White,The North,3900.0,No
+Female,47,Married,GCSE/O Level,British,White,The North,13000.0,No
+Female,77,Widowed,No Qualification,British,White,The North,3900.0,No
+Female,25,Single,GCSE/O Level,English,White,The North,13000.0,Yes
+Female,71,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,24,Single,GCSE/O Level,British,White,The North,3900.0,Yes
+Female,90,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,41,Divorced,GCSE/O Level,British,White,The North,7800.0,Yes
+Female,69,Married,No Qualification,English,White,The North,1300.0,No
+Female,35,Married,GCSE/O Level,British,White,The North,18200.0,No
+Female,32,Single,No Qualification,English,White,The North,7800.0,Yes
+Female,48,Single,GCSE/O Level,British,White,The North,18200.0,No
+Female,34,Married,No Qualification,English,White,The North,3900.0,No
+Female,28,Married,GCSE/O Level,English,White,The North,7800.0,Yes
+Male,66,Married,No Qualification,English,White,The North,0.0,No
+Male,56,Married,GCSE/CSE,English,White,The North,24700.0,No
+Male,51,Married,Other/Sub Degree,British,White,The North,13000.0,No
+Female,63,Married,No Qualification,British,White,The North,3900.0,No
+Male,44,Married,Degree,English,White,The North,32500.0,No
+Female,45,Married,Higher/Sub Degree,British,White,The North,13000.0,No
+Male,55,Married,No Qualification,British,White,The North,13000.0,Yes
+Female,55,Married,No Qualification,English,White,The North,7800.0,No
+Female,55,Married,A Levels,Scottish,White,The North,0.0,No
+Female,57,Married,GCSE/O Level,British,White,The North,3900.0,No
+Male,76,Married,A Levels,Scottish,White,The North,7800.0,No
+Female,59,Married,No Qualification,British,White,The North,7800.0,No
+Female,46,Married,No Qualification,British,White,The North,7800.0,No
+Female,56,Married,No Qualification,British,White,The North,1300.0,No
+Male,67,Married,No Qualification,British,White,The North,7800.0,No
+Female,73,Single,Other/Sub Degree,English,White,The North,13000.0,No
+Female,82,Widowed,No Qualification,English,White,The North,0.0,No
+Male,75,Married,ONC/BTEC,English,White,The North,0.0,No
+Female,41,Married,Other/Sub Degree,English,White,The North,7800.0,No
+Female,40,Married,A Levels,British,White,The North,18200.0,No
+Male,37,Married,GCSE/O Level,English,White,The North,18200.0,No
+Male,53,Married,ONC/BTEC,English,White,The North,24700.0,No
+Female,35,Married,No Qualification,English,White,The North,7800.0,No
+Female,39,Married,GCSE/O Level,English,White,The North,24700.0,No
+Female,31,Separated,Other/Sub Degree,English,White,The North,3900.0,No
+Male,38,Married,ONC/BTEC,British,White,The North,18200.0,No
+Female,34,Divorced,GCSE/O Level,British,White,The North,13000.0,Yes
+Female,36,Married,A Levels,English,White,The North,13000.0,Yes
+Male,31,Single,Degree,English,White,The North,24700.0,No
+Female,31,Single,GCSE/CSE,British,White,The North,1300.0,Yes
+Male,35,Married,Degree,English,White,The North,24700.0,No
+Male,42,Married,No Qualification,British,White,The North,24700.0,No
+Male,30,Single,GCSE/CSE,English,White,The North,18200.0,No
+Female,39,Divorced,GCSE/O Level,British,White,The North,13000.0,No
+Female,47,Married,GCSE/O Level,Scottish,White,The North,13000.0,No
+Male,38,Married,Higher/Sub Degree,English,White,The North,24700.0,No
+Female,29,Divorced,A Levels,English,White,The North,18200.0,No
+Male,75,Widowed,No Qualification,British,White,The North,7800.0,No
+Female,47,Married,Higher/Sub Degree,British,White,The North,0.0,No
+Male,55,Married,No Qualification,English,White,The North,18200.0,No
+Male,42,Married,Higher/Sub Degree,Other,White,The North,18200.0,No
+Female,39,Married,Degree,English,White,The North,18200.0,No
+Male,64,Married,GCSE/O Level,English,White,The North,7800.0,No
+Female,84,Widowed,No Qualification,English,White,The North,3900.0,No
+Female,49,Married,Higher/Sub Degree,British,White,The North,7800.0,No
+Male,24,Single,Higher/Sub Degree,English,White,The North,13000.0,No
+Male,38,Single,GCSE/O Level,Scottish,White,The North,13000.0,Yes
+Female,45,Married,Degree,Other,White,The North,18200.0,No
+Female,47,Divorced,GCSE/O Level,British,White,The North,7800.0,No
+Male,37,Divorced,Higher/Sub Degree,English,White,The North,32500.0,No
+Male,59,Married,Higher/Sub Degree,English,White,The North,7800.0,No
+Male,25,Single,Degree,Other,White,The North,32500.0,No
+Male,56,Married,No Qualification,English,White,The North,18200.0,No
+Female,71,Divorced,GCSE/CSE,British,White,The North,3900.0,No
+Male,81,Widowed,Higher/Sub Degree,English,White,The North,13000.0,No
+Male,55,Married,A Levels,English,White,Midlands & East Anglia,18200.0,No
+Male,42,Married,GCSE/CSE,English,White,Midlands & East Anglia,18200.0,No
+Male,73,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,43,Married,A Levels,English,White,Midlands & East Anglia,32500.0,No
+Female,57,Divorced,No Qualification,English,White,Midlands & East Anglia,13000.0,Yes
+Female,47,Married,Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,29,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,Yes
+Female,30,Widowed,GCSE/CSE,British,White,Midlands & East Anglia,13000.0,No
+Male,58,Married,No Qualification,English,White,Midlands & East Anglia,18200.0,Yes
+Female,58,Married,Degree,English,White,Midlands & East Anglia,32500.0,No
+Male,70,Widowed,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Male,18,Single,A Levels,British,White,Midlands & East Anglia,0.0,No
+Female,45,Single,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Male,37,Single,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,Yes
+Female,44,Separated,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,No
+Male,46,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Male,29,Married,Degree,British,White,Midlands & East Anglia,24700.0,No
+Male,50,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Female,51,Married,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Male,80,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,85,Married,A Levels,English,White,Midlands & East Anglia,7800.0,No
+Female,49,Married,No Qualification,British,White,Midlands & East Anglia,1300.0,No
+Male,52,Married,No Qualification,British,White,Midlands & East Anglia,24700.0,No
+Female,58,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,49,Married,Degree,British,White,Midlands & East Anglia,3900.0,No
+Male,39,Single,Degree,British,White,Midlands & East Anglia,32500.0,No
+Female,53,Married,Degree,British,White,Midlands & East Anglia,7800.0,Yes
+Female,71,Married,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,No
+Male,29,Single,Higher/Sub Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,66,Married,No Qualification,British,White,Midlands & East Anglia,18200.0,No
+Male,75,Married,Other/Sub Degree,English,White,Midlands & East Anglia,24700.0,No
+Female,45,Divorced,Degree,British,White,Midlands & East Anglia,32500.0,No
+Female,69,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,49,Divorced,Degree,British,White,Midlands & East Anglia,18200.0,No
+Male,63,Married,No Qualification,English,White,Midlands & East Anglia,18200.0,No
+Male,61,Married,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,55,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,57,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,13000.0,No
+Female,60,Married,Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,58,Married,GCSE/O Level,English,White,Midlands & East Anglia,24700.0,No
+Female,76,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Male,29,Single,Higher/Sub Degree,British,White,Midlands & East Anglia,24700.0,Yes
+Female,50,Married,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Male,40,Married,GCSE/O Level,English,White,Midlands & East Anglia,0.0,No
+Female,34,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,7800.0,No
+Female,77,Widowed,No Qualification,Irish,White,Midlands & East Anglia,3900.0,No
+Male,47,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,68,Married,No Qualification,British,White,Midlands & East Anglia,1300.0,No
+Male,31,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,18200.0,No
+Male,41,Married,Degree,British,Asian,Midlands & East Anglia,24700.0,No
+Female,55,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,7800.0,Yes
+Male,66,Married,A Levels,British,Asian,Midlands & East Anglia,7800.0,No
+Female,80,Married,No Qualification,British,White,Midlands & East Anglia,1300.0,No
+Female,45,Married,Degree,British,Asian,Midlands & East Anglia,3900.0,No
+Male,63,Married,Degree,English,White,Midlands & East Anglia,18200.0,No
+Male,62,Married,Degree,Scottish,White,Midlands & East Anglia,24700.0,No
+Female,49,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,33,Married,ONC/BTEC,English,White,Midlands & East Anglia,13000.0,No
+Female,16,Single,GCSE/O Level,English,White,Midlands & East Anglia,0.0,No
+Male,58,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,33,Separated,ONC/BTEC,English,White,Midlands & East Anglia,7800.0,No
+Male,65,Married,Degree,British,White,Midlands & East Anglia,32500.0,No
+Female,39,Single,Degree,Irish,White,Midlands & East Anglia,24700.0,No
+Female,57,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,18200.0,Yes
+Female,31,Married,A Levels,British,White,Midlands & East Anglia,3900.0,No
+Male,79,Married,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Female,16,Single,GCSE/CSE,British,White,Midlands & East Anglia,1300.0,Yes
+Female,54,Married,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Female,37,Divorced,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,Yes
+Female,87,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,32,Single,Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,72,Married,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Male,20,Married,GCSE/O Level,English,Mixed,Midlands & East Anglia,13000.0,Yes
+Male,77,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,63,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Male,56,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,34,Single,GCSE/O Level,British,White,Midlands & East Anglia,18200.0,Yes
+Female,24,Married,A Levels,English,White,Midlands & East Anglia,24700.0,No
+Female,42,Single,GCSE/O Level,British,White,Midlands & East Anglia,18200.0,Yes
+Male,71,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,48,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Male,38,Separated,ONC/BTEC,British,White,Midlands & East Anglia,32500.0,No
+Female,55,Divorced,A Levels,English,White,Midlands & East Anglia,1300.0,No
+Male,50,Married,GCSE/CSE,English,White,Midlands & East Anglia,24700.0,No
+Male,30,Single,ONC/BTEC,English,White,Midlands & East Anglia,24700.0,No
+Female,72,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,59,Married,Other/Sub Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,68,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,18200.0,No
+Male,48,Married,No Qualification,British,White,Midlands & East Anglia,24700.0,No
+Male,42,Widowed,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Female,72,Divorced,Other/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,54,Married,Other/Sub Degree,English,White,Midlands & East Anglia,0.0,No
+Female,53,Divorced,GCSE/O Level,English,White,Midlands & East Anglia,0.0,Yes
+Female,86,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,57,Divorced,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Female,30,Single,Degree,British,Chinese,Midlands & East Anglia,18200.0,No
+Male,35,Single,No Qualification,Other,White,Midlands & East Anglia,0.0,Yes
+Female,25,Separated,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,Yes
+Male,67,Married,Other/Sub Degree,British,White,Midlands & East Anglia,7800.0,No
+Female,33,Divorced,GCSE/O Level,English,White,Midlands & East Anglia,32500.0,No
+Female,51,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Female,54,Married,No Qualification,English,White,Midlands & East Anglia,24700.0,No
+Male,86,Married,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Female,69,Married,No Qualification,British,White,Midlands & East Anglia,1300.0,No
+Female,23,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,33,Single,Degree,English,White,Midlands & East Anglia,18200.0,Yes
+Male,79,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,21,Single,A Levels,English,White,Midlands & East Anglia,7800.0,No
+Female,37,Divorced,GCSE/O Level,British,White,Midlands & East Anglia,3900.0,No
+Male,40,Married,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,Yes
+Male,79,Single,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Female,34,Divorced,Higher/Sub Degree,English,White,Midlands & East Anglia,7800.0,Yes
+Male,28,Single,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,Yes
+Female,44,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,Yes
+Female,64,Married,GCSE/O Level,English,White,Midlands & East Anglia,3900.0,No
+Female,51,Separated,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,21,Single,ONC/BTEC,English,White,Midlands & East Anglia,13000.0,Yes
+Male,40,Single,GCSE/O Level,English,White,Midlands & East Anglia,3900.0,Yes
+Female,42,Single,GCSE/O Level,British,White,Midlands & East Anglia,7800.0,No
+Female,47,Divorced,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Male,73,Widowed,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,18,Single,Higher/Sub Degree,British,White,Midlands & East Anglia,3900.0,Yes
+Male,24,Single,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,No
+Female,69,Widowed,GCSE/O Level,British,White,Midlands & East Anglia,7800.0,No
+Female,61,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,83,Single,No Qualification,Refused,Refused,Midlands & East Anglia,0.0,No
+Female,80,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,80,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,26,Single,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Female,34,Separated,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,No
+Male,34,Married,Degree,British,White,Midlands & East Anglia,32500.0,No
+Female,39,Single,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,Yes
+Male,33,Married,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,Yes
+Male,36,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Female,39,Divorced,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Male,35,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,Yes
+Female,89,Widowed,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Female,23,Married,Degree,British,Asian,Midlands & East Anglia,7800.0,Yes
+Female,32,Divorced,GCSE/O Level,English,Asian,Midlands & East Anglia,13000.0,No
+Male,32,Married,No Qualification,Other,Asian,Midlands & East Anglia,7800.0,Yes
+Male,35,Married,GCSE/O Level,British,Asian,Midlands & East Anglia,3900.0,Yes
+Female,18,Single,A Levels,British,White,Midlands & East Anglia,7800.0,No
+Male,44,Divorced,Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,75,Married,GCSE/CSE,Other,White,Midlands & East Anglia,7800.0,No
+Female,65,Married,GCSE/O Level,English,White,Midlands & East Anglia,1300.0,No
+Female,54,Married,ONC/BTEC,British,White,Midlands & East Anglia,24700.0,No
+Male,32,Married,GCSE/O Level,English,White,Midlands & East Anglia,32500.0,No
+Female,57,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,3900.0,No
+Female,50,Married,Other/Sub Degree,British,White,Midlands & East Anglia,13000.0,Yes
+Female,58,Married,Other/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Female,30,Married,Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,57,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,60,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,Yes
+Female,78,Separated,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,44,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,Yes
+Male,32,Single,ONC/BTEC,British,White,Midlands & East Anglia,18200.0,Yes
+Female,56,Separated,Higher/Sub Degree,English,White,Midlands & East Anglia,32500.0,No
+Male,51,Married,Other/Sub Degree,Scottish,White,Midlands & East Anglia,18200.0,No
+Male,71,Married,Other/Sub Degree,British,Black,Midlands & East Anglia,7800.0,No
+Female,74,Widowed,Other/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Female,56,Single,Degree,English,White,Midlands & East Anglia,18200.0,Yes
+Female,80,Widowed,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,51,Married,ONC/BTEC,English,White,Midlands & East Anglia,18200.0,No
+Female,53,Widowed,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,No
+Male,80,Married,No Qualification,English,White,Midlands & East Anglia,24700.0,No
+Male,42,Married,Degree,British,White,Midlands & East Anglia,24700.0,Yes
+Female,82,Widowed,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,No
+Male,58,Married,A Levels,British,White,Midlands & East Anglia,7800.0,No
+Female,78,Married,Degree,English,White,Midlands & East Anglia,13000.0,No
+Male,61,Married,No Qualification,English,White,Midlands & East Anglia,24700.0,Yes
+Female,49,Single,No Qualification,British,White,Midlands & East Anglia,13000.0,Yes
+Female,51,Divorced,GCSE/CSE,English,White,Midlands & East Anglia,13000.0,No
+Male,48,Married,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,No
+Female,37,Married,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,No
+Male,51,Married,GCSE/CSE,British,Asian,Midlands & East Anglia,13000.0,Yes
+Male,55,Married,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,No
+Female,48,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Female,82,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,56,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,71,Widowed,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Male,30,Single,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,73,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,35,Married,GCSE/O Level,English,White,Midlands & East Anglia,1300.0,Yes
+Male,79,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,75,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Female,49,Married,ONC/BTEC,English,White,Midlands & East Anglia,7800.0,No
+Female,74,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Male,33,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,81,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,63,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,78,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,68,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Male,73,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,34,Married,A Levels,English,White,Midlands & East Anglia,18200.0,No
+Female,36,Divorced,No Qualification,English,White,Midlands & East Anglia,13000.0,Yes
+Female,16,Single,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Male,72,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,66,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,41,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Female,49,Married,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,Yes
+Male,42,Single,No Qualification,British,White,Midlands & East Anglia,24700.0,No
+Female,54,Separated,GCSE/CSE,English,White,Midlands & East Anglia,13000.0,No
+Male,70,Married,Higher/Sub Degree,British,White,Midlands & East Anglia,13000.0,No
+Female,29,Married,GCSE/CSE,British,Asian,Midlands & East Anglia,24700.0,No
+Male,43,Married,No Qualification,British,Asian,Midlands & East Anglia,0.0,Yes
+Female,19,Single,A Levels,Refused,Chinese,Midlands & East Anglia,0.0,No
+Male,44,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,32500.0,No
+Male,27,Single,Degree,English,White,Midlands & East Anglia,24700.0,Yes
+Male,68,Married,No Qualification,English,White,Midlands & East Anglia,24700.0,No
+Female,80,Widowed,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Male,85,Widowed,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,65,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,88,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,76,Widowed,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Male,81,Married,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Female,44,Separated,Degree,British,White,Midlands & East Anglia,7800.0,Yes
+Female,34,Married,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,No
+Female,55,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,77,Widowed,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Female,33,Married,Degree,Refused,Chinese,Midlands & East Anglia,0.0,No
+Male,82,Single,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Female,77,Widowed,Higher/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Male,19,Single,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Female,70,Widowed,Other/Sub Degree,British,White,Midlands & East Anglia,0.0,No
+Female,74,Widowed,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Female,57,Married,Other/Sub Degree,British,White,Midlands & East Anglia,3900.0,No
+Female,44,Divorced,GCSE/CSE,English,White,Midlands & East Anglia,13000.0,No
+Female,38,Single,Degree,British,White,Midlands & East Anglia,0.0,No
+Male,43,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,57,Separated,No Qualification,Welsh,White,Midlands & East Anglia,3900.0,No
+Female,54,Divorced,GCSE/O Level,Unknown,Chinese,Midlands & East Anglia,3900.0,Yes
+Male,17,Single,GCSE/O Level,English,White,Midlands & East Anglia,3900.0,No
+Male,60,Married,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Female,50,Married,No Qualification,British,White,Midlands & East Anglia,1300.0,No
+Female,24,Single,GCSE/CSE,British,White,Midlands & East Anglia,13000.0,Yes
+Female,78,Widowed,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Male,60,Single,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,85,Widowed,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,Yes
+Male,59,Married,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Male,65,Married,Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,55,Married,Other/Sub Degree,English,White,Midlands & East Anglia,0.0,No
+Female,32,Married,ONC/BTEC,British,White,Midlands & East Anglia,18200.0,No
+Male,41,Single,Higher/Sub Degree,English,Mixed,Midlands & East Anglia,1300.0,No
+Female,31,Single,Higher/Sub Degree,British,White,Midlands & East Anglia,13000.0,No
+Male,45,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Female,30,Single,Degree,British,White,Midlands & East Anglia,24700.0,No
+Female,19,Single,A Levels,English,White,Midlands & East Anglia,3900.0,No
+Female,76,Widowed,GCSE/O Level,British,White,Midlands & East Anglia,7800.0,No
+Male,73,Married,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Male,19,Single,GCSE/O Level,English,White,Midlands & East Anglia,0.0,Yes
+Male,34,Married,Degree,English,White,Midlands & East Anglia,32500.0,No
+Female,59,Married,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Female,22,Single,GCSE/CSE,English,White,Midlands & East Anglia,7800.0,Yes
+Female,27,Single,Degree,British,White,Midlands & East Anglia,13000.0,No
+Female,45,Married,A Levels,British,White,Midlands & East Anglia,18200.0,No
+Female,69,Widowed,Other/Sub Degree,Other,White,Midlands & East Anglia,13000.0,No
+Male,76,Married,Degree,Other,White,Midlands & East Anglia,18200.0,No
+Female,54,Married,Degree,British,White,Midlands & East Anglia,32500.0,No
+Male,72,Married,Degree,British,White,Midlands & East Anglia,7800.0,No
+Female,89,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,78,Widowed,No Qualification,Refused,Refused,Midlands & East Anglia,0.0,Yes
+Female,60,Married,GCSE/O Level,English,White,Midlands & East Anglia,0.0,No
+Female,39,Married,A Levels,British,White,Midlands & East Anglia,13000.0,No
+Male,28,Single,GCSE/O Level,British,White,Midlands & East Anglia,7800.0,Yes
+Male,23,Single,GCSE/CSE,English,White,Midlands & East Anglia,1300.0,Yes
+Male,26,Single,A Levels,British,White,Midlands & East Anglia,13000.0,No
+Female,52,Married,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,54,Married,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,No
+Male,20,Single,A Levels,British,White,Midlands & East Anglia,13000.0,Yes
+Female,59,Married,Other/Sub Degree,English,White,Midlands & East Anglia,0.0,No
+Male,30,Married,ONC/BTEC,British,White,Midlands & East Anglia,18200.0,No
+Male,41,Married,GCSE/O Level,Scottish,White,Midlands & East Anglia,13000.0,No
+Female,26,Single,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,No
+Female,27,Married,GCSE/O Level,Welsh,White,Midlands & East Anglia,3900.0,No
+Male,49,Married,No Qualification,Refused,Refused,Midlands & East Anglia,0.0,Yes
+Male,29,Single,ONC/BTEC,English,White,Midlands & East Anglia,13000.0,No
+Female,36,Divorced,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,No
+Male,43,Divorced,GCSE/CSE,English,White,Midlands & East Anglia,18200.0,No
+Male,29,Single,ONC/BTEC,English,White,Midlands & East Anglia,13000.0,No
+Female,34,Separated,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,Yes
+Female,81,Married,No Qualification,Refused,Chinese,Midlands & East Anglia,0.0,No
+Female,30,Single,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,Yes
+Male,25,Single,Degree,English,White,Midlands & East Anglia,24700.0,Yes
+Male,59,Divorced,No Qualification,English,White,Midlands & East Anglia,13000.0,Yes
+Female,44,Widowed,No Qualification,British,Asian,Midlands & East Anglia,3900.0,No
+Male,64,Married,GCSE/O Level,Refused,Chinese,Midlands & East Anglia,0.0,No
+Female,35,Married,A Levels,Refused,Chinese,Midlands & East Anglia,0.0,No
+Male,40,Single,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Female,65,Single,A Levels,Other,Black,Midlands & East Anglia,13000.0,No
+Female,17,Single,GCSE/O Level,British,Asian,Midlands & East Anglia,0.0,No
+Male,72,Married,No Qualification,Other,Black,Midlands & East Anglia,18200.0,No
+Female,29,Married,Degree,British,Black,Midlands & East Anglia,1300.0,No
+Male,39,Married,No Qualification,British,Asian,Midlands & East Anglia,32500.0,No
+Male,70,Widowed,No Qualification,British,White,Midlands & East Anglia,7800.0,No
+Male,73,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,46,Single,GCSE/O Level,British,White,Midlands & East Anglia,24700.0,No
+Male,59,Married,ONC/BTEC,English,White,Midlands & East Anglia,7800.0,No
+Female,77,Widowed,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Female,42,Married,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,Yes
+Male,41,Married,GCSE/O Level,British,White,Midlands & East Anglia,24700.0,No
+Male,49,Married,A Levels,British,White,Midlands & East Anglia,18200.0,Yes
+Male,67,Single,Degree,English,White,Midlands & East Anglia,13000.0,No
+Female,65,Single,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,40,Single,No Qualification,English,White,Midlands & East Anglia,18200.0,No
+Male,49,Separated,GCSE/O Level,English,White,Midlands & East Anglia,32500.0,No
+Male,34,Single,GCSE/CSE,English,White,Midlands & East Anglia,18200.0,No
+Female,64,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,44,Widowed,Degree,Other,White,Midlands & East Anglia,13000.0,No
+Female,72,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,32,Married,A Levels,English,White,Midlands & East Anglia,24700.0,Yes
+Female,53,Married,No Qualification,British,White,Midlands & East Anglia,0.0,No
+Female,50,Married,A Levels,British,White,Midlands & East Anglia,18200.0,No
+Female,63,Divorced,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,57,Married,Degree,English,White,Midlands & East Anglia,7800.0,No
+Male,40,Married,Degree,English,White,Midlands & East Anglia,0.0,No
+Female,88,Divorced,Other/Sub Degree,English,White,Midlands & East Anglia,13000.0,No
+Male,57,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,54,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,58,Widowed,No Qualification,English,White,Midlands & East Anglia,24700.0,No
+Female,77,Divorced,Higher/Sub Degree,British,White,Midlands & East Anglia,7800.0,No
+Female,45,Divorced,GCSE/CSE,Other,White,Midlands & East Anglia,13000.0,No
+Female,31,Single,GCSE/O Level,British,White,Midlands & East Anglia,1300.0,No
+Male,31,Married,ONC/BTEC,English,White,Midlands & East Anglia,24700.0,No
+Male,80,Widowed,Degree,British,White,Midlands & East Anglia,32500.0,No
+Male,67,Widowed,Degree,English,White,Midlands & East Anglia,24700.0,Yes
+Male,40,Single,GCSE/O Level,English,White,Midlands & East Anglia,0.0,Yes
+Female,70,Widowed,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Female,28,Single,GCSE/CSE,English,White,Midlands & East Anglia,1300.0,Yes
+Male,30,Married,GCSE/CSE,Other,White,Midlands & East Anglia,18200.0,No
+Female,70,Divorced,Other/Sub Degree,English,White,Midlands & East Anglia,0.0,No
+Male,57,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,76,Widowed,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,No
+Female,89,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,81,Married,No Qualification,British,White,Midlands & East Anglia,3900.0,No
+Female,30,Single,ONC/BTEC,British,White,Midlands & East Anglia,18200.0,No
+Female,39,Single,Higher/Sub Degree,British,White,Midlands & East Anglia,7800.0,No
+Female,73,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,Yes
+Female,39,Married,A Levels,Other,White,Midlands & East Anglia,0.0,No
+Female,76,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,62,Single,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,66,Married,A Levels,English,White,Midlands & East Anglia,3900.0,No
+Female,53,Separated,Degree,British,White,Midlands & East Anglia,32500.0,No
+Male,60,Married,Degree,British,White,Midlands & East Anglia,13000.0,No
+Female,36,Married,GCSE/O Level,British,White,Midlands & East Anglia,3900.0,No
+Female,40,Single,GCSE/CSE,British,White,Midlands & East Anglia,13000.0,No
+Female,57,Separated,No Qualification,English,White,Midlands & East Anglia,32500.0,Yes
+Male,16,Single,No Qualification,English,White,Midlands & East Anglia,1300.0,Yes
+Female,25,Single,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Male,58,Single,No Qualification,English,White,Midlands & East Anglia,18200.0,No
+Female,49,Divorced,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,48,Single,Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,76,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,88,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,35,Married,A Levels,British,Chinese,Midlands & East Anglia,13000.0,No
+Male,43,Married,Degree,British,Black,Midlands & East Anglia,24700.0,No
+Female,69,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,64,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,Yes
+Female,40,Divorced,GCSE/O Level,English,White,Midlands & East Anglia,13000.0,Yes
+Male,78,Married,Degree,British,White,Midlands & East Anglia,0.0,No
+Male,58,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Female,34,Married,Degree,British,White,Midlands & East Anglia,1300.0,Yes
+Female,46,Married,Degree,British,Mixed,Midlands & East Anglia,24700.0,No
+Female,65,Married,No Qualification,English,White,Midlands & East Anglia,24700.0,No
+Female,34,Single,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,Yes
+Female,40,Separated,GCSE/CSE,British,Asian,Midlands & East Anglia,7800.0,No
+Male,79,Married,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Male,36,Married,No Qualification,British,Asian,Midlands & East Anglia,13000.0,No
+Female,39,Married,No Qualification,Other,White,Midlands & East Anglia,3900.0,No
+Male,24,Married,GCSE/CSE,English,White,Midlands & East Anglia,18200.0,No
+Female,28,Single,Other/Sub Degree,English,White,Midlands & East Anglia,3900.0,Yes
+Female,26,Single,A Levels,English,Asian,Midlands & East Anglia,3900.0,No
+Female,45,Widowed,GCSE/CSE,English,White,Midlands & East Anglia,1300.0,No
+Female,24,Single,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,Yes
+Male,77,Divorced,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,78,Married,Higher/Sub Degree,Welsh,White,Midlands & East Anglia,13000.0,No
+Male,25,Single,Degree,Scottish,White,Midlands & East Anglia,0.0,No
+Male,36,Married,GCSE/CSE,British,White,Midlands & East Anglia,18200.0,No
+Male,17,Single,GCSE/O Level,English,White,Midlands & East Anglia,0.0,No
+Male,55,Married,GCSE/O Level,British,White,Midlands & East Anglia,32500.0,No
+Female,70,Married,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,43,Single,GCSE/O Level,English,White,Midlands & East Anglia,24700.0,Yes
+Female,59,Divorced,No Qualification,British,White,Midlands & East Anglia,13000.0,No
+Female,32,Married,Other/Sub Degree,British,White,Midlands & East Anglia,1300.0,No
+Female,34,Married,Degree,British,White,Midlands & East Anglia,1300.0,No
+Male,58,Single,Degree,British,White,Midlands & East Anglia,32500.0,No
+Male,44,Married,GCSE/O Level,British,White,Midlands & East Anglia,18200.0,No
+Male,64,Married,No Qualification,British,White,Midlands & East Anglia,0.0,Yes
+Female,34,Married,GCSE/CSE,English,White,Midlands & East Anglia,7800.0,No
+Male,32,Single,GCSE/CSE,English,White,Midlands & East Anglia,0.0,No
+Male,38,Married,Degree,British,White,Midlands & East Anglia,18200.0,No
+Male,28,Single,GCSE/CSE,British,White,Midlands & East Anglia,32500.0,No
+Male,42,Married,GCSE/CSE,English,White,Midlands & East Anglia,24700.0,No
+Female,34,Single,Degree,Other,White,Midlands & East Anglia,24700.0,No
+Male,23,Single,ONC/BTEC,English,White,Midlands & East Anglia,7800.0,Yes
+Male,55,Separated,Degree,British,White,Midlands & East Anglia,18200.0,No
+Male,65,Married,Other/Sub Degree,English,White,Midlands & East Anglia,7800.0,No
+Female,62,Married,GCSE/O Level,English,White,Midlands & East Anglia,3900.0,No
+Female,66,Married,Higher/Sub Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,73,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Male,34,Single,Other/Sub Degree,English,White,Midlands & East Anglia,24700.0,No
+Female,33,Married,Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,76,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Female,55,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,Yes
+Female,39,Married,Degree,English,White,Midlands & East Anglia,1300.0,No
+Female,26,Single,Degree,British,Asian,Midlands & East Anglia,18200.0,No
+Male,61,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,Yes
+Female,78,Married,Other/Sub Degree,English,White,Midlands & East Anglia,3900.0,No
+Male,42,Married,Degree,English,White,Midlands & East Anglia,18200.0,No
+Female,72,Married,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,62,Widowed,No Qualification,English,White,Midlands & East Anglia,24700.0,Yes
+Female,46,Married,GCSE/O Level,British,White,Midlands & East Anglia,13000.0,Yes
+Male,24,Single,A Levels,British,White,Midlands & East Anglia,18200.0,No
+Male,27,Single,Degree,British,Black,Midlands & East Anglia,13000.0,Yes
+Female,64,Married,GCSE/O Level,British,White,Midlands & East Anglia,7800.0,No
+Male,86,Married,Degree,English,White,Midlands & East Anglia,32500.0,No
+Female,46,Married,Degree,British,White,Midlands & East Anglia,24700.0,No
+Male,20,Single,ONC/BTEC,British,White,Midlands & East Anglia,13000.0,Yes
+Male,35,Divorced,Higher/Sub Degree,Other,White,Midlands & East Anglia,32500.0,No
+Female,46,Married,Higher/Sub Degree,Irish,White,Midlands & East Anglia,32500.0,Yes
+Female,39,Married,Higher/Sub Degree,Irish,White,Midlands & East Anglia,1300.0,No
+Female,28,Married,GCSE/O Level,English,White,Midlands & East Anglia,18200.0,No
+Female,33,Married,Higher/Sub Degree,Refused,Refused,Midlands & East Anglia,0.0,No
+Female,39,Divorced,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Male,45,Divorced,GCSE/CSE,British,White,Midlands & East Anglia,13000.0,No
+Female,37,Separated,Higher/Sub Degree,British,White,Midlands & East Anglia,24700.0,No
+Male,29,Married,ONC/BTEC,English,White,Midlands & East Anglia,18200.0,Yes
+Male,76,Widowed,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,26,Married,Degree,English,White,Midlands & East Anglia,24700.0,No
+Female,47,Divorced,Degree,English,White,Midlands & East Anglia,24700.0,Yes
+Male,72,Divorced,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Female,72,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,65,Widowed,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Female,69,Married,No Qualification,English,White,Midlands & East Anglia,1300.0,No
+Female,61,Married,A Levels,English,White,Midlands & East Anglia,0.0,No
+Female,63,Married,No Qualification,English,White,Midlands & East Anglia,0.0,No
+Male,16,Single,No Qualification,British,White,Midlands & East Anglia,0.0,No
+Male,61,Divorced,No Qualification,English,White,Midlands & East Anglia,3900.0,No
+Male,18,Single,GCSE/O Level,English,White,Midlands & East Anglia,1300.0,No
+Male,76,Single,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,65,Married,GCSE/O Level,English,White,Midlands & East Anglia,7800.0,No
+Female,52,Married,No Qualification,English,White,Midlands & East Anglia,7800.0,No
+Male,64,Widowed,No Qualification,English,White,Midlands & East Anglia,13000.0,No
+Female,42,Married,GCSE/CSE,British,White,Midlands & East Anglia,1300.0,No
+Male,40,Married,Degree,Other,White,London,18200.0,No
+Female,28,Married,Other/Sub Degree,English,Mixed,London,24700.0,No
+Male,40,Married,Degree,Welsh,White,London,18200.0,No
+Male,48,Married,GCSE/O Level,British,White,London,32500.0,No
+Male,35,Separated,Degree,Other,White,London,24700.0,No
+Female,30,Single,Degree,British,Black,London,7800.0,Yes
+Female,26,Single,Degree,British,White,London,7800.0,No
+Male,81,Widowed,No Qualification,English,White,London,7800.0,No
+Male,77,Divorced,A Levels,English,White,London,13000.0,No
+Female,25,Single,Degree,British,White,London,18200.0,No
+Female,66,Married,No Qualification,British,Asian,London,1300.0,No
+Male,18,Single,A Levels,British,White,London,7800.0,Yes
+Male,43,Married,GCSE/O Level,British,Black,London,18200.0,No
+Male,49,Divorced,Other/Sub Degree,English,White,London,7800.0,Yes
+Male,29,Married,Degree,English,White,London,18200.0,No
+Female,20,Single,No Qualification,English,White,London,7800.0,No
+Female,75,Widowed,Other/Sub Degree,English,White,London,1300.0,Yes
+Male,40,Married,No Qualification,Other,Chinese,London,24700.0,No
+Female,64,Single,Higher/Sub Degree,Irish,White,London,7800.0,No
+Male,66,Single,Degree,British,Chinese,London,0.0,No
+Female,34,Single,Degree,British,White,London,7800.0,No
+Female,76,Divorced,Degree,British,White,London,32500.0,No
+Male,30,Married,Degree,English,White,London,18200.0,Yes
+Male,55,Married,Degree,Other,Mixed,London,18200.0,No
+Female,49,Single,GCSE/O Level,English,White,London,7800.0,No
+Male,38,Separated,Degree,English,Chinese,London,13000.0,No
+Male,23,Single,A Levels,Other,Refused,London,0.0,Yes
+Male,77,Married,Degree,Welsh,White,London,18200.0,No
+Male,46,Single,Degree,Other,White,London,13000.0,Yes
+Female,26,Separated,Higher/Sub Degree,British,White,London,1300.0,No
+Female,26,Single,Degree,Other,White,London,32500.0,Yes
+Male,45,Single,Degree,Irish,White,London,18200.0,Yes
+Female,45,Single,No Qualification,Other,Black,London,3900.0,No
+Female,61,Married,No Qualification,English,White,London,0.0,No
+Female,47,Married,GCSE/O Level,English,White,London,7800.0,No
+Female,75,Widowed,Other/Sub Degree,English,White,London,13000.0,Yes
+Female,36,Divorced,No Qualification,English,White,London,3900.0,Yes
+Male,26,Single,Degree,British,Chinese,London,3900.0,No
+Male,71,Widowed,No Qualification,English,White,London,3900.0,Yes
+Male,69,Married,No Qualification,British,White,London,7800.0,Yes
+Male,38,Single,A Levels,Irish,White,London,32500.0,Yes
+Female,21,Single,GCSE/O Level,British,Black,London,0.0,No
+Male,26,Single,No Qualification,British,Chinese,London,13000.0,No
+Female,83,Widowed,No Qualification,English,White,London,0.0,No
+Female,56,Divorced,No Qualification,Other,White,London,7800.0,No
+Male,34,Single,Degree,English,White,London,18200.0,Yes
+Female,66,Widowed,No Qualification,English,White,London,7800.0,No
+Female,32,Single,GCSE/O Level,English,White,London,7800.0,Yes
+Female,77,Single,No Qualification,English,White,London,7800.0,No
+Female,70,Married,No Qualification,English,White,London,1300.0,No
+Male,24,Single,GCSE/O Level,English,White,London,1300.0,Yes
+Female,81,Widowed,No Qualification,British,White,London,7800.0,No
+Male,37,Separated,Other/Sub Degree,Other,White,London,3900.0,No
+Male,90,Married,No Qualification,English,White,London,3900.0,No
+Female,29,Single,GCSE/O Level,Other,Black,London,7800.0,Yes
+Female,24,Single,A Levels,Other,White,London,7800.0,No
+Male,81,Widowed,No Qualification,English,White,London,3900.0,No
+Female,38,Separated,ONC/BTEC,Other,Black,London,7800.0,No
+Male,22,Single,GCSE/O Level,Irish,White,London,24700.0,Yes
+Male,31,Married,GCSE/CSE,British,Asian,London,7800.0,No
+Female,77,Widowed,No Qualification,Other,White,London,3900.0,No
+Female,61,Divorced,No Qualification,Other,White,London,13000.0,Yes
+Male,54,Single,No Qualification,English,White,London,3900.0,No
+Female,72,Widowed,No Qualification,British,White,London,7800.0,No
+Male,66,Single,No Qualification,British,White,London,7800.0,Yes
+Male,47,Single,ONC/BTEC,British,White,London,24700.0,No
+Female,76,Widowed,No Qualification,English,White,London,7800.0,No
+Male,41,Married,A Levels,English,White,London,24700.0,No
+Female,80,Widowed,No Qualification,English,White,London,7800.0,No
+Female,63,Married,No Qualification,English,White,London,3900.0,No
+Male,29,Married,No Qualification,English,White,London,18200.0,No
+Female,40,Single,GCSE/O Level,Other,White,London,18200.0,No
+Female,54,Married,No Qualification,English,White,London,13000.0,No
+Male,66,Married,Degree,British,Asian,London,13000.0,Yes
+Male,69,Married,Other/Sub Degree,Other,Asian,London,13000.0,No
+Male,51,Married,No Qualification,British,White,London,18200.0,No
+Male,70,Widowed,No Qualification,English,White,London,7800.0,No
+Female,36,Married,GCSE/O Level,British,White,London,3900.0,Yes
+Female,73,Married,No Qualification,English,White,London,1300.0,No
+Male,72,Married,Other/Sub Degree,British,White,London,3900.0,No
+Female,18,Single,GCSE/O Level,English,White,London,1300.0,No
+Female,57,Married,Other/Sub Degree,British,White,London,1300.0,No
+Male,21,Single,A Levels,British,White,London,0.0,No
+Male,64,Married,Degree,British,Asian,London,7800.0,No
+Female,39,Married,GCSE/CSE,English,White,London,24700.0,No
+Female,37,Divorced,GCSE/CSE,British,White,London,7800.0,No
+Female,36,Married,GCSE/CSE,British,White,London,1300.0,Yes
+Female,37,Married,Degree,English,White,London,13000.0,No
+Male,79,Married,No Qualification,English,White,London,3900.0,No
+Female,49,Married,GCSE/CSE,English,White,London,7800.0,No
+Female,30,Married,GCSE/O Level,English,White,London,7800.0,No
+Female,27,Single,Degree,Welsh,White,London,24700.0,No
+Male,16,Single,GCSE/O Level,English,White,London,1300.0,No
+Male,40,Married,GCSE/O Level,English,White,London,18200.0,No
+Female,45,Separated,GCSE/O Level,English,White,London,18200.0,No
+Female,78,Widowed,Other/Sub Degree,English,White,London,7800.0,No
+Female,59,Married,Other/Sub Degree,English,White,London,7800.0,No
+Female,93,Widowed,Other/Sub Degree,English,White,London,7800.0,Yes
+Female,33,Married,A Levels,English,White,London,13000.0,No
+Female,57,Divorced,No Qualification,British,White,London,18200.0,No
+Female,53,Single,No Qualification,English,White,London,3900.0,Yes
+Female,54,Divorced,Higher/Sub Degree,English,White,London,3900.0,No
+Female,33,Married,A Levels,Irish,White,London,18200.0,No
+Female,52,Single,Other/Sub Degree,Irish,White,London,3900.0,No
+Male,31,Single,Higher/Sub Degree,English,White,London,13000.0,No
+Female,54,Married,Degree,British,White,London,32500.0,No
+Female,41,Married,Higher/Sub Degree,British,White,London,24700.0,Yes
+Female,23,Single,GCSE/O Level,English,White,London,13000.0,No
+Female,81,Widowed,GCSE/CSE,British,White,London,1300.0,No
+Female,17,Single,A Levels,British,White,London,0.0,No
+Male,73,Married,No Qualification,British,White,London,18200.0,No
+Male,62,Married,No Qualification,English,White,London,24700.0,No
+Female,73,Married,Degree,Scottish,White,London,13000.0,Yes
+Male,22,Single,ONC/BTEC,English,White,London,24700.0,Yes
+Female,18,Single,A Levels,English,White,London,1300.0,No
+Female,86,Widowed,GCSE/O Level,Irish,White,London,13000.0,Yes
+Female,54,Married,Degree,British,White,London,24700.0,Yes
+Female,55,Married,Degree,British,White,London,24700.0,No
+Female,22,Single,Degree,English,Mixed,London,24700.0,Yes
+Female,30,Married,ONC/BTEC,British,Asian,London,7800.0,No
+Female,25,Single,Degree,Other,Black,London,3900.0,No
+Female,54,Divorced,Other/Sub Degree,British,Chinese,London,1300.0,Yes
+Male,36,Single,GCSE/O Level,English,White,London,18200.0,No
+Female,40,Married,Other/Sub Degree,Other,White,London,1300.0,No
+Female,51,Divorced,GCSE/O Level,British,White,London,3900.0,Yes
+Male,44,Married,Degree,British,White,London,13000.0,No
+Female,26,Single,Degree,Other,White,London,1300.0,Yes
+Male,73,Married,ONC/BTEC,English,White,London,7800.0,No
+Female,36,Married,GCSE/O Level,English,White,London,18200.0,No
+Male,69,Widowed,No Qualification,Irish,White,London,7800.0,No
+Female,41,Married,Degree,British,White,London,13000.0,No
+Male,40,Married,Degree,Other,White,London,18200.0,No
+Male,82,Married,Other/Sub Degree,Other,White,London,3900.0,Yes
+Male,27,Single,Degree,British,White,London,18200.0,No
+Female,35,Single,Degree,English,White,London,24700.0,No
+Male,35,Married,Degree,English,White,London,18200.0,No
+Male,33,Married,Other/Sub Degree,Other,White,London,32500.0,No
+Female,41,Divorced,No Qualification,British,White,London,3900.0,Yes
+Female,26,Separated,Other/Sub Degree,British,Black,London,7800.0,No
+Female,55,Married,No Qualification,English,White,London,0.0,No
+Male,18,Single,GCSE/O Level,Other,Black,London,1300.0,No
+Female,68,Married,GCSE/O Level,British,Black,London,7800.0,No
+Female,43,Single,GCSE/O Level,Other,Black,London,13000.0,No
+Male,58,Married,No Qualification,English,Mixed,London,24700.0,No
+Female,39,Married,GCSE/O Level,British,White,London,7800.0,No
+Female,54,Separated,No Qualification,English,White,London,3900.0,No
+Female,62,Married,No Qualification,British,White,London,32500.0,No
+Female,40,Married,A Levels,English,White,London,13000.0,Yes
+Female,59,Single,GCSE/O Level,English,White,London,3900.0,No
+Female,57,Divorced,GCSE/O Level,British,White,London,24700.0,No
+Female,42,Single,GCSE/O Level,Other,Black,London,7800.0,Yes
+Female,48,Separated,GCSE/O Level,Scottish,White,London,24700.0,Yes
+Female,45,Divorced,GCSE/O Level,British,Black,London,24700.0,Yes
+Female,24,Single,GCSE/CSE,British,White,London,3900.0,No
+Female,66,Widowed,GCSE/CSE,British,Black,London,13000.0,No
+Male,63,Single,Higher/Sub Degree,English,White,London,13000.0,Yes
+Male,28,Single,GCSE/O Level,Refused,Refused,London,0.0,No
+Male,59,Divorced,No Qualification,English,White,London,24700.0,No
+Male,50,Married,Higher/Sub Degree,Other,Black,London,24700.0,No
+Female,41,Separated,GCSE/CSE,English,White,London,13000.0,No
+Female,76,Single,No Qualification,British,White,London,7800.0,No
+Male,24,Single,ONC/BTEC,British,White,London,18200.0,Yes
+Female,25,Single,Other/Sub Degree,British,Chinese,London,24700.0,Yes
+Female,33,Widowed,Degree,Other,Chinese,London,7800.0,No
+Male,31,Single,ONC/BTEC,Other,Black,London,32500.0,No
+Female,33,Single,Degree,British,Black,London,7800.0,Yes
+Female,37,Single,No Qualification,Other,White,London,7800.0,No
+Male,81,Divorced,No Qualification,British,Black,London,7800.0,No
+Female,36,Single,No Qualification,Other,Black,London,24700.0,No
+Female,64,Married,No Qualification,British,White,London,13000.0,Yes
+Male,51,Married,Other/Sub Degree,British,Asian,London,7800.0,No
+Female,19,Single,A Levels,British,Mixed,London,13000.0,No
+Female,18,Single,A Levels,British,Black,London,0.0,No
+Male,31,Married,Degree,English,White,London,18200.0,Yes
+Female,24,Single,ONC/BTEC,English,White,London,7800.0,No
+Male,18,Single,No Qualification,Other,Chinese,London,1300.0,Yes
+Male,22,Single,Degree,Other,Asian,London,3900.0,No
+Female,26,Single,Other/Sub Degree,Other,Black,London,13000.0,No
+Female,33,Single,Degree,British,Black,London,3900.0,No
+Male,17,Single,GCSE/CSE,British,Asian,London,1300.0,Yes
+Male,37,Single,ONC/BTEC,British,Black,London,13000.0,Yes
+Male,60,Married,No Qualification,British,Chinese,London,3900.0,No
+Male,80,Married,No Qualification,British,White,South East,3900.0,No
+Male,68,Married,ONC/BTEC,British,White,South East,13000.0,Yes
+Female,65,Married,GCSE/O Level,English,White,South East,7800.0,No
+Male,42,Married,No Qualification,British,Chinese,South East,13000.0,No
+Female,48,Married,GCSE/O Level,British,White,South East,18200.0,No
+Male,46,Married,A Levels,Scottish,White,South East,18200.0,No
+Male,44,Married,ONC/BTEC,English,White,South East,32500.0,No
+Female,29,Married,A Levels,English,White,South East,13000.0,Yes
+Male,38,Married,Higher/Sub Degree,English,White,South East,18200.0,No
+Female,52,Married,No Qualification,Irish,White,South East,0.0,No
+Male,48,Divorced,Degree,English,White,South East,18200.0,No
+Male,65,Married,GCSE/CSE,British,White,South East,13000.0,No
+Male,27,Single,Degree,English,White,South East,13000.0,No
+Female,37,Married,GCSE/O Level,English,White,South East,3900.0,No
+Female,42,Married,GCSE/O Level,British,White,South East,1300.0,No
+Male,53,Single,No Qualification,British,White,South East,7800.0,No
+Female,66,Widowed,No Qualification,English,White,South East,0.0,Yes
+Female,20,Single,ONC/BTEC,English,White,South East,18200.0,No
+Female,62,Married,No Qualification,Refused,Refused,South East,0.0,No
+Male,18,Single,Other/Sub Degree,English,White,South East,3900.0,No
+Male,69,Married,No Qualification,English,White,South East,7800.0,No
+Male,63,Divorced,ONC/BTEC,English,White,South East,18200.0,Yes
+Male,41,Married,Degree,British,Chinese,South East,32500.0,No
+Male,74,Married,Higher/Sub Degree,English,White,South East,18200.0,No
+Female,20,Single,Other/Sub Degree,Other,White,South East,3900.0,No
+Female,18,Single,GCSE/O Level,British,White,South East,3900.0,No
+Male,28,Single,GCSE/O Level,English,Black,South East,7800.0,Yes
+Male,49,Married,Degree,British,Chinese,South East,18200.0,No
+Male,64,Married,Higher/Sub Degree,British,White,South East,7800.0,No
+Female,69,Widowed,GCSE/O Level,English,White,South East,7800.0,No
+Female,33,Separated,No Qualification,British,White,South East,7800.0,No
+Female,22,Single,GCSE/CSE,English,White,South East,13000.0,Yes
+Female,63,Married,No Qualification,English,White,South East,13000.0,No
+Female,93,Widowed,No Qualification,Welsh,White,South East,3900.0,No
+Female,65,Married,No Qualification,English,White,South East,1300.0,No
+Female,33,Married,GCSE/O Level,British,White,South East,13000.0,Yes
+Female,38,Married,No Qualification,British,White,South East,3900.0,No
+Female,29,Single,GCSE/O Level,English,White,South East,1300.0,Yes
+Male,59,Married,A Levels,British,White,South East,18200.0,No
+Male,37,Single,Degree,English,Mixed,South East,18200.0,No
+Male,51,Single,No Qualification,British,White,South East,24700.0,Yes
+Female,33,Married,GCSE/O Level,English,White,South East,0.0,No
+Female,80,Single,Higher/Sub Degree,English,White,South East,3900.0,No
+Male,49,Married,A Levels,English,White,South East,18200.0,No
+Female,38,Married,Degree,English,White,South East,24700.0,No
+Male,45,Single,GCSE/O Level,English,White,South East,18200.0,Yes
+Female,58,Married,Higher/Sub Degree,Scottish,White,South East,24700.0,No
+Female,63,Married,Degree,English,White,South East,3900.0,No
+Female,69,Married,Other/Sub Degree,English,White,South East,3900.0,No
+Male,86,Widowed,Other/Sub Degree,British,White,South East,24700.0,No
+Female,66,Widowed,Higher/Sub Degree,English,White,South East,24700.0,No
+Male,61,Married,No Qualification,British,Unknown,South East,7800.0,No
+Female,62,Separated,Higher/Sub Degree,English,White,South East,18200.0,No
+Female,89,Widowed,No Qualification,British,White,South East,3900.0,No
+Female,72,Widowed,Degree,British,White,South East,24700.0,No
+Male,64,Married,Other/Sub Degree,British,White,South East,18200.0,No
+Female,58,Married,A Levels,English,White,South East,32500.0,No
+Female,80,Widowed,No Qualification,English,White,South East,13000.0,No
+Female,61,Married,Higher/Sub Degree,English,White,South East,7800.0,No
+Female,34,Married,Higher/Sub Degree,Irish,White,South East,7800.0,No
+Female,36,Married,GCSE/O Level,British,White,South East,1300.0,Yes
+Female,34,Divorced,GCSE/O Level,British,White,South East,13000.0,Yes
+Female,40,Single,A Levels,English,White,South East,18200.0,No
+Male,53,Single,No Qualification,English,White,South East,24700.0,No
+Female,31,Single,Degree,English,White,South East,24700.0,No
+Female,86,Separated,No Qualification,English,White,South East,3900.0,No
+Female,46,Married,No Qualification,English,White,South East,7800.0,Yes
+Male,34,Single,GCSE/O Level,Scottish,White,South East,18200.0,No
+Female,44,Single,Degree,English,White,South East,32500.0,No
+Female,69,Widowed,A Levels,English,White,South East,7800.0,No
+Female,56,Widowed,No Qualification,British,White,South East,18200.0,No
+Male,79,Single,No Qualification,English,White,South East,3900.0,No
+Female,41,Separated,GCSE/CSE,English,White,South East,7800.0,Yes
+Male,34,Divorced,ONC/BTEC,English,White,South East,18200.0,Yes
+Male,47,Single,GCSE/CSE,English,White,South East,3900.0,Yes
+Male,46,Married,No Qualification,British,White,South East,18200.0,No
+Female,30,Single,No Qualification,English,White,South East,13000.0,No
+Female,19,Single,A Levels,English,White,South East,7800.0,No
+Male,45,Married,Degree,Welsh,White,South East,32500.0,No
+Female,24,Single,Higher/Sub Degree,Other,White,South East,13000.0,No
+Male,42,Married,GCSE/O Level,English,White,South East,24700.0,No
+Male,32,Married,Other/Sub Degree,English,White,South East,18200.0,No
+Male,32,Single,GCSE/CSE,English,White,South East,13000.0,Yes
+Female,28,Single,A Levels,British,White,South East,1300.0,Yes
+Female,78,Widowed,No Qualification,British,White,South East,13000.0,No
+Male,42,Divorced,GCSE/O Level,English,White,South East,18200.0,Yes
+Female,27,Married,Degree,English,White,South East,32500.0,No
+Female,57,Married,Other/Sub Degree,English,White,South East,0.0,No
+Female,24,Single,Degree,Refused,Refused,South East,0.0,No
+Female,71,Married,GCSE/O Level,English,White,South East,3900.0,No
+Male,51,Married,GCSE/O Level,English,White,South East,24700.0,No
+Male,66,Widowed,No Qualification,English,White,South East,13000.0,No
+Female,73,Separated,No Qualification,British,White,South East,3900.0,No
+Male,18,Single,No Qualification,Refused,Refused,South East,0.0,Yes
+Male,50,Divorced,A Levels,English,White,South East,24700.0,Yes
+Female,79,Widowed,No Qualification,English,White,South East,7800.0,Yes
+Female,22,Single,GCSE/O Level,English,White,South East,1300.0,Yes
+Male,45,Divorced,No Qualification,English,White,South East,13000.0,No
+Female,53,Married,No Qualification,English,White,South East,0.0,No
+Male,77,Married,No Qualification,English,White,South East,3900.0,Yes
+Female,64,Widowed,No Qualification,English,White,South East,7800.0,No
+Male,39,Married,A Levels,British,White,South East,1300.0,No
+Male,54,Widowed,No Qualification,English,White,South East,7800.0,Yes
+Male,17,Single,GCSE/CSE,English,White,South East,0.0,No
+Male,78,Married,No Qualification,English,White,South East,7800.0,No
+Male,50,Single,Degree,British,White,South East,24700.0,Yes
+Male,41,Married,Higher/Sub Degree,English,White,South East,18200.0,No
+Female,48,Divorced,No Qualification,Irish,Mixed,South East,3900.0,Yes
+Male,25,Married,GCSE/O Level,English,White,South East,18200.0,No
+Male,18,Married,ONC/BTEC,British,White,South East,3900.0,No
+Female,58,Married,GCSE/O Level,English,White,South East,13000.0,No
+Female,79,Widowed,Higher/Sub Degree,English,White,South East,24700.0,No
+Male,62,Married,No Qualification,English,White,South East,3900.0,Yes
+Female,36,Married,GCSE/CSE,British,White,South East,1300.0,No
+Female,38,Divorced,No Qualification,English,White,South East,7800.0,No
+Male,19,Single,Other/Sub Degree,British,White,South East,13000.0,No
+Female,45,Separated,No Qualification,English,White,South East,7800.0,No
+Male,54,Married,Degree,English,White,South East,18200.0,No
+Female,69,Widowed,GCSE/O Level,Scottish,White,South East,18200.0,No
+Female,65,Widowed,Higher/Sub Degree,British,White,South East,13000.0,No
+Male,31,Married,GCSE/CSE,English,White,South East,24700.0,No
+Female,31,Married,Degree,British,White,South East,3900.0,No
+Female,46,Single,No Qualification,English,White,South East,3900.0,Yes
+Male,37,Single,ONC/BTEC,Other,White,South East,24700.0,No
+Female,72,Married,No Qualification,English,White,South East,0.0,No
+Male,59,Married,GCSE/O Level,English,White,South East,24700.0,No
+Female,82,Widowed,GCSE/O Level,English,White,South East,0.0,No
+Male,81,Widowed,Degree,English,White,South East,32500.0,No
+Female,65,Widowed,GCSE/O Level,English,White,South East,3900.0,No
+Female,48,Divorced,No Qualification,English,White,South East,18200.0,Yes
+Male,49,Divorced,ONC/BTEC,British,White,South East,18200.0,Yes
+Male,35,Single,GCSE/O Level,British,White,South East,3900.0,Yes
+Female,73,Married,No Qualification,English,White,South East,7800.0,No
+Female,80,Divorced,No Qualification,British,White,South East,7800.0,No
+Male,55,Married,ONC/BTEC,English,White,South East,32500.0,No
+Male,78,Widowed,No Qualification,English,White,South East,0.0,No
+Female,45,Single,GCSE/O Level,English,White,South East,0.0,Yes
+Male,39,Married,A Levels,English,White,South East,24700.0,Yes
+Male,75,Married,No Qualification,English,White,South East,7800.0,No
+Male,65,Married,Other/Sub Degree,English,Chinese,South East,7800.0,No
+Male,79,Divorced,No Qualification,Refused,Refused,South East,3900.0,No
+Male,75,Married,GCSE/O Level,English,Chinese,South East,24700.0,No
+Female,69,Married,No Qualification,British,White,South East,7800.0,No
+Female,57,Single,No Qualification,British,White,South East,18200.0,No
+Female,29,Single,Degree,English,White,South East,24700.0,No
+Male,54,Married,No Qualification,English,White,South East,24700.0,Yes
+Male,29,Married,Degree,British,White,South East,24700.0,No
+Male,42,Divorced,No Qualification,British,White,South East,13000.0,No
+Male,28,Single,Degree,British,White,South East,18200.0,Yes
+Female,65,Widowed,No Qualification,British,White,South East,18200.0,No
+Male,37,Married,Degree,English,White,South East,18200.0,Yes
+Female,35,Single,Degree,English,White,South East,7800.0,No
+Female,33,Single,Degree,English,Mixed,South East,18200.0,Yes
+Male,52,Married,Degree,Other,White,South East,7800.0,Yes
+Male,57,Single,Higher/Sub Degree,British,White,South East,24700.0,No
+Female,31,Single,Degree,English,White,South East,18200.0,No
+Male,73,Married,No Qualification,British,White,South East,7800.0,No
+Male,43,Married,Degree,British,White,South East,18200.0,No
+Male,38,Single,Degree,English,Black,South East,32500.0,No
+Female,43,Married,No Qualification,British,White,South East,18200.0,Yes
+Female,55,Married,Higher/Sub Degree,English,White,South East,24700.0,No
+Male,59,Married,Degree,British,White,South East,18200.0,No
+Female,33,Married,Degree,British,White,South East,24700.0,No
+Female,41,Married,GCSE/O Level,British,White,South East,7800.0,Yes
+Female,46,Married,GCSE/CSE,British,White,South East,7800.0,Yes
+Male,57,Married,Degree,British,White,South East,18200.0,Yes
+Male,40,Single,A Levels,English,White,South East,18200.0,No
+Male,57,Married,GCSE/O Level,English,White,South East,7800.0,No
+Female,39,Married,GCSE/O Level,British,White,South East,13000.0,Yes
+Male,67,Married,Other/Sub Degree,British,White,South East,7800.0,Yes
+Female,46,Single,No Qualification,English,White,South East,3900.0,No
+Male,39,Married,Higher/Sub Degree,British,White,South East,32500.0,No
+Female,55,Married,GCSE/O Level,British,White,South East,0.0,No
+Male,50,Married,Other/Sub Degree,English,White,South East,18200.0,Yes
+Female,70,Widowed,ONC/BTEC,English,White,South East,7800.0,No
+Female,44,Married,Higher/Sub Degree,Other,White,South East,1300.0,No
+Female,33,Married,ONC/BTEC,English,White,South East,1300.0,No
+Male,69,Divorced,Other/Sub Degree,English,White,South East,7800.0,No
+Female,70,Married,No Qualification,English,White,South East,1300.0,Yes
+Female,62,Widowed,No Qualification,British,White,South East,0.0,No
+Female,31,Married,GCSE/O Level,British,White,South East,1300.0,No
+Male,70,Married,Other/Sub Degree,English,White,South East,13000.0,No
+Male,32,Married,No Qualification,British,White,South East,32500.0,No
+Female,75,Divorced,A Levels,British,White,South East,0.0,No
+Male,47,Married,Higher/Sub Degree,British,White,South East,24700.0,No
+Male,57,Married,No Qualification,English,White,South East,24700.0,No
+Male,86,Widowed,No Qualification,English,White,South East,7800.0,No
+Female,32,Single,GCSE/O Level,English,White,South East,3900.0,No
+Male,46,Single,GCSE/O Level,British,White,South East,13000.0,Yes
+Male,51,Single,No Qualification,English,White,South East,1300.0,Yes
+Female,69,Married,GCSE/O Level,English,White,South East,13000.0,No
+Female,73,Married,GCSE/O Level,British,White,South East,3900.0,No
+Female,32,Single,Higher/Sub Degree,English,White,South East,18200.0,Yes
+Female,75,Married,GCSE/O Level,English,White,South East,0.0,No
+Female,54,Widowed,GCSE/CSE,English,White,South East,24700.0,Yes
+Female,51,Married,Higher/Sub Degree,English,White,South East,13000.0,No
+Female,35,Married,Degree,British,White,South East,13000.0,No
+Male,38,Married,Degree,English,White,South East,18200.0,No
+Female,72,Married,GCSE/O Level,English,White,South East,7800.0,No
+Female,66,Married,A Levels,English,White,South East,0.0,No
+Female,59,Married,GCSE/CSE,English,White,South East,3900.0,No
+Male,70,Married,Degree,British,White,South East,24700.0,No
+Male,44,Single,GCSE/CSE,English,White,South East,0.0,No
+Female,67,Married,GCSE/CSE,English,White,South East,7800.0,No
+Male,35,Married,GCSE/O Level,English,White,South East,24700.0,No
+Female,33,Married,GCSE/O Level,English,White,South East,7800.0,No
+Male,17,Single,GCSE/CSE,English,White,South East,3900.0,No
+Female,45,Married,GCSE/O Level,British,White,South East,1300.0,No
+Female,57,Married,GCSE/O Level,British,White,South East,7800.0,No
+Female,18,Single,A Levels,British,White,South East,1300.0,No
+Male,68,Separated,A Levels,English,White,South East,18200.0,No
+Female,27,Single,Higher/Sub Degree,Other,White,South East,18200.0,Yes
+Female,40,Married,GCSE/CSE,British,White,South East,1300.0,Yes
+Male,77,Single,GCSE/CSE,English,White,South East,7800.0,No
+Female,77,Married,GCSE/O Level,British,White,South East,3900.0,No
+Male,75,Married,ONC/BTEC,English,White,South East,18200.0,No
+Male,39,Married,ONC/BTEC,British,White,South East,18200.0,Yes
+Female,21,Single,GCSE/O Level,British,White,South East,3900.0,No
+Female,59,Divorced,Degree,British,White,South East,7800.0,No
+Male,27,Single,GCSE/CSE,British,White,South East,24700.0,No
+Female,67,Married,No Qualification,English,White,South East,3900.0,No
+Female,50,Single,Higher/Sub Degree,English,White,South East,24700.0,No
+Female,64,Divorced,GCSE/O Level,English,White,South East,7800.0,No
+Female,79,Widowed,No Qualification,English,Chinese,South East,7800.0,No
+Male,31,Single,GCSE/O Level,English,White,South East,13000.0,Yes
+Female,19,Single,A Levels,British,Chinese,South East,13000.0,No
+Male,42,Married,Degree,British,White,South East,32500.0,No
+Male,36,Married,GCSE/CSE,English,White,South East,7800.0,No
+Male,36,Married,GCSE/CSE,English,White,South East,24700.0,No
+Female,64,Widowed,GCSE/O Level,British,White,South East,3900.0,No
+Female,53,Single,No Qualification,English,White,South East,7800.0,No
+Female,39,Married,GCSE/CSE,Irish,White,South East,18200.0,Yes
+Female,39,Married,Degree,English,White,South East,32500.0,No
+Female,28,Married,Degree,British,White,South East,7800.0,Yes
+Male,81,Married,No Qualification,English,White,South East,7800.0,No
+Female,79,Married,No Qualification,English,White,South East,1300.0,No
+Female,72,Married,No Qualification,English,White,South East,7800.0,No
+Female,18,Single,GCSE/O Level,English,White,South East,3900.0,Yes
+Female,76,Married,No Qualification,British,White,South East,3900.0,No
+Female,68,Widowed,No Qualification,British,White,South East,7800.0,Yes
+Female,28,Single,GCSE/CSE,English,White,South East,13000.0,Yes
+Female,42,Divorced,GCSE/O Level,English,White,South East,3900.0,No
+Female,26,Single,GCSE/O Level,British,White,South East,7800.0,Yes
+Female,19,Single,No Qualification,Welsh,White,South East,3900.0,Yes
+Female,41,Divorced,Other/Sub Degree,Welsh,White,South East,7800.0,Yes
+Female,82,Widowed,No Qualification,English,White,South East,7800.0,No
+Male,36,Married,Degree,British,Asian,South East,18200.0,No
+Male,47,Single,No Qualification,English,White,South East,7800.0,Yes
+Male,77,Widowed,Other/Sub Degree,Scottish,White,South East,7800.0,No
+Female,66,Divorced,No Qualification,English,White,South East,1300.0,No
+Male,50,Divorced,Other/Sub Degree,English,White,South East,7800.0,Yes
+Female,55,Divorced,No Qualification,English,White,South East,7800.0,No
+Female,36,Married,A Levels,English,White,South West,1300.0,Yes
+Male,79,Married,No Qualification,Irish,White,South West,0.0,No
+Female,67,Married,No Qualification,English,White,South West,3900.0,No
+Female,42,Single,A Levels,British,White,South West,0.0,No
+Female,76,Married,No Qualification,British,White,South West,1300.0,No
+Female,44,Married,Other/Sub Degree,British,White,South West,18200.0,No
+Female,75,Married,No Qualification,English,White,South West,3900.0,No
+Female,24,Married,Other/Sub Degree,British,White,South West,13000.0,No
+Male,78,Married,Other/Sub Degree,English,White,South West,7800.0,No
+Female,38,Married,ONC/BTEC,British,White,South West,7800.0,No
+Male,22,Single,Other/Sub Degree,English,White,South West,7800.0,No
+Female,62,Married,Other/Sub Degree,English,White,South West,3900.0,No
+Female,40,Divorced,No Qualification,British,White,South West,7800.0,Yes
+Male,35,Married,Degree,British,White,South West,24700.0,No
+Female,45,Married,ONC/BTEC,British,White,South West,7800.0,No
+Female,66,Married,No Qualification,British,White,South West,3900.0,No
+Female,53,Divorced,Higher/Sub Degree,English,White,South West,7800.0,No
+Female,43,Divorced,GCSE/O Level,English,White,South West,13000.0,Yes
+Female,72,Widowed,No Qualification,British,White,South West,3900.0,Yes
+Female,72,Widowed,No Qualification,English,White,South West,7800.0,No
+Female,67,Married,Higher/Sub Degree,English,White,South West,13000.0,No
+Female,37,Divorced,GCSE/O Level,British,White,South West,7800.0,No
+Male,38,Married,ONC/BTEC,English,White,South West,13000.0,No
+Female,39,Married,GCSE/O Level,English,White,South West,13000.0,Yes
+Male,64,Divorced,No Qualification,English,White,South West,7800.0,No
+Male,72,Married,No Qualification,English,White,South West,3900.0,No
+Male,54,Married,GCSE/O Level,English,White,South West,13000.0,Yes
+Female,59,Widowed,No Qualification,English,White,South West,7800.0,No
+Female,50,Married,ONC/BTEC,English,White,South West,13000.0,No
+Male,33,Married,GCSE/O Level,English,White,South West,18200.0,No
+Female,45,Married,Higher/Sub Degree,English,White,South West,24700.0,No
+Female,73,Widowed,No Qualification,English,White,South West,7800.0,No
+Male,68,Married,Degree,British,White,South West,18200.0,No
+Female,33,Married,GCSE/O Level,British,White,South West,13000.0,No
+Female,21,Single,ONC/BTEC,British,White,South West,3900.0,No
+Female,32,Married,Degree,English,White,South West,24700.0,No
+Male,37,Married,Other/Sub Degree,British,White,South West,18200.0,No
+Female,48,Single,Degree,English,White,South West,0.0,Yes
+Male,25,Single,No Qualification,British,White,South West,18200.0,Yes
+Male,61,Married,No Qualification,English,White,South West,7800.0,Yes
+Female,86,Widowed,No Qualification,English,White,South West,3900.0,No
+Female,45,Married,No Qualification,English,White,South West,7800.0,No
+Female,60,Divorced,GCSE/O Level,English,White,South West,13000.0,No
+Female,40,Single,Degree,British,White,South West,18200.0,No
+Male,55,Married,No Qualification,British,White,South West,0.0,No
+Male,53,Separated,GCSE/O Level,Welsh,White,South West,13000.0,No
+Male,41,Married,GCSE/O Level,English,White,South West,3900.0,No
+Female,17,Single,GCSE/O Level,English,White,South West,1300.0,Yes
+Female,42,Divorced,Higher/Sub Degree,English,White,South West,18200.0,No
+Male,44,Married,GCSE/O Level,English,White,South West,24700.0,No
+Female,43,Married,A Levels,English,White,South West,13000.0,No
+Female,39,Married,Other/Sub Degree,Other,White,South West,3900.0,Yes
+Male,67,Married,No Qualification,English,White,South West,13000.0,No
+Female,73,Married,No Qualification,British,White,South West,1300.0,No
+Female,16,Single,GCSE/O Level,English,White,South West,3900.0,No
+Female,73,Widowed,No Qualification,British,White,South West,13000.0,No
+Male,52,Married,Degree,Scottish,White,South West,18200.0,No
+Male,72,Single,No Qualification,English,White,South West,7800.0,No
+Male,79,Married,No Qualification,British,White,South West,13000.0,No
+Female,90,Widowed,No Qualification,English,White,South West,3900.0,No
+Male,27,Single,Higher/Sub Degree,English,White,South West,24700.0,Yes
+Male,32,Divorced,Degree,English,White,South West,18200.0,No
+Female,38,Divorced,GCSE/O Level,English,White,South West,7800.0,No
+Female,21,Single,Degree,British,White,South West,1300.0,No
+Male,40,Married,A Levels,British,White,South West,18200.0,No
+Male,28,Married,Degree,British,White,South West,18200.0,No
+Male,47,Married,A Levels,English,White,South West,18200.0,Yes
+Female,45,Married,Degree,British,White,South West,7800.0,No
+Female,95,Widowed,No Qualification,British,White,South West,7800.0,No
+Male,18,Single,A Levels,English,White,South West,3900.0,No
+Female,89,Widowed,GCSE/O Level,English,White,South West,0.0,No
+Female,82,Widowed,No Qualification,English,White,South West,7800.0,No
+Male,65,Married,A Levels,English,White,South West,32500.0,No
+Female,87,Widowed,GCSE/O Level,English,White,South West,7800.0,No
+Male,30,Single,Higher/Sub Degree,English,White,South West,24700.0,Yes
+Female,77,Widowed,Degree,English,White,South West,32500.0,No
+Female,55,Divorced,Degree,British,White,South West,18200.0,No
+Female,33,Married,Degree,British,Asian,South West,7800.0,No
+Female,56,Married,No Qualification,British,Black,South West,7800.0,No
+Female,68,Divorced,No Qualification,English,White,South West,3900.0,Yes
+Female,73,Married,No Qualification,British,White,South West,3900.0,No
+Female,66,Single,GCSE/O Level,English,White,South West,13000.0,No
+Female,73,Married,Other/Sub Degree,English,White,South West,7800.0,No
+Male,42,Married,Higher/Sub Degree,English,White,South West,24700.0,Yes
+Male,41,Single,No Qualification,Welsh,White,South West,0.0,No
+Female,35,Married,GCSE/CSE,British,White,South West,13000.0,No
+Female,53,Married,No Qualification,English,White,South West,3900.0,No
+Female,74,Divorced,No Qualification,English,White,South West,7800.0,No
+Male,46,Married,No Qualification,English,White,South West,13000.0,Yes
+Female,22,Single,GCSE/CSE,English,White,South West,3900.0,No
+Male,27,Married,A Levels,English,White,South West,18200.0,No
+Female,71,Married,GCSE/O Level,British,White,South West,7800.0,No
+Male,78,Widowed,Other/Sub Degree,English,White,South West,7800.0,No
+Female,38,Married,GCSE/O Level,English,White,South West,7800.0,No
+Female,31,Married,A Levels,British,White,South West,13000.0,No
+Female,54,Married,Degree,English,White,South West,3900.0,No
+Female,31,Single,GCSE/CSE,English,White,South West,13000.0,No
+Male,53,Married,ONC/BTEC,English,Mixed,South West,18200.0,No
+Female,36,Single,GCSE/O Level,English,White,South West,3900.0,Yes
+Male,41,Married,Other/Sub Degree,English,White,South West,18200.0,No
+Male,78,Widowed,No Qualification,British,White,South West,7800.0,Yes
+Female,54,Divorced,GCSE/O Level,British,White,South West,3900.0,Yes
+Female,72,Divorced,No Qualification,British,White,South West,3900.0,No
+Male,28,Married,Other/Sub Degree,English,White,South West,24700.0,Yes
+Female,41,Separated,GCSE/O Level,British,White,South West,7800.0,Yes
+Female,78,Married,No Qualification,English,White,South West,1300.0,No
+Male,71,Widowed,No Qualification,Welsh,White,South West,7800.0,No
+Female,57,Married,Other/Sub Degree,English,White,South West,7800.0,No
+Male,31,Married,GCSE/O Level,British,White,South West,18200.0,Yes
+Female,64,Widowed,No Qualification,Irish,White,South West,7800.0,No
+Male,65,Married,No Qualification,English,White,South West,7800.0,No
+Male,61,Married,No Qualification,English,White,South West,7800.0,No
+Male,33,Married,GCSE/CSE,English,White,South West,24700.0,No
+Female,60,Married,ONC/BTEC,English,White,South West,0.0,Yes
+Male,40,Married,Higher/Sub Degree,British,White,South West,18200.0,No
+Female,68,Married,Other/Sub Degree,English,White,South West,7800.0,No
+Female,36,Married,No Qualification,English,White,South West,18200.0,No
+Female,35,Married,GCSE/O Level,English,White,South West,1300.0,No
+Male,22,Single,GCSE/CSE,English,White,South West,24700.0,Yes
+Female,43,Married,GCSE/CSE,English,White,South West,3900.0,No
+Male,84,Widowed,No Qualification,English,White,South West,7800.0,No
+Female,24,Single,No Qualification,British,White,South West,7800.0,No
+Male,68,Married,No Qualification,English,White,South West,7800.0,Yes
+Male,35,Single,Other/Sub Degree,British,White,South West,1300.0,Yes
+Female,51,Divorced,Other/Sub Degree,English,White,South West,0.0,Yes
+Male,45,Married,ONC/BTEC,British,White,South West,32500.0,No
+Female,45,Single,No Qualification,English,White,South West,0.0,Yes
+Male,71,Married,No Qualification,English,White,South West,13000.0,No
+Female,47,Married,No Qualification,British,White,South West,7800.0,Yes
+Female,39,Married,Higher/Sub Degree,British,White,South West,13000.0,No
+Male,62,Married,Higher/Sub Degree,English,White,South West,3900.0,No
+Female,37,Single,Degree,British,White,South West,18200.0,No
+Female,71,Married,No Qualification,English,White,South West,0.0,No
+Male,49,Divorced,Degree,English,White,South West,32500.0,No
+Female,22,Single,GCSE/CSE,British,White,South West,3900.0,Yes
+Male,61,Married,No Qualification,English,White,South West,1300.0,No
+Male,34,Single,GCSE/O Level,British,White,South West,24700.0,Yes
+Female,40,Separated,Degree,British,White,South West,18200.0,No
+Female,27,Separated,No Qualification,English,White,South West,3900.0,Yes
+Male,28,Single,ONC/BTEC,English,White,South West,13000.0,Yes
+Female,28,Single,A Levels,British,White,South West,13000.0,No
+Male,36,Married,GCSE/CSE,English,White,South West,24700.0,Yes
+Female,34,Single,GCSE/O Level,English,White,South West,7800.0,Yes
+Male,19,Single,A Levels,English,White,South West,13000.0,No
+Female,31,Divorced,GCSE/O Level,English,White,South West,18200.0,Yes
+Male,49,Divorced,No Qualification,English,White,South West,0.0,Yes
+Male,42,Divorced,A Levels,Irish,White,South West,3900.0,Yes
+Female,38,Married,No Qualification,English,White,South West,1300.0,No
+Male,16,Single,No Qualification,English,White,South West,1300.0,Yes
+Male,73,Married,No Qualification,British,White,South West,7800.0,No
+Male,36,Married,GCSE/O Level,English,Asian,South West,18200.0,No
+Female,81,Married,No Qualification,Welsh,White,South West,1300.0,No
+Female,97,Widowed,No Qualification,English,White,South West,13000.0,No
+Male,38,Married,No Qualification,English,White,South West,13000.0,No
+Female,46,Married,Other/Sub Degree,British,White,South West,7800.0,Yes
+Male,79,Married,No Qualification,English,White,South West,7800.0,No
+Female,76,Widowed,No Qualification,English,White,South West,3900.0,Yes
+Female,54,Widowed,No Qualification,Irish,White,Wales,3900.0,No
+Male,59,Married,Degree,English,White,Wales,18200.0,No
+Male,52,Separated,Degree,British,White,Wales,18200.0,No
+Male,58,Divorced,No Qualification,Welsh,White,Wales,7800.0,Yes
+Male,69,Divorced,Degree,Welsh,White,Wales,18200.0,No
+Male,67,Widowed,Degree,Welsh,White,Wales,7800.0,No
+Female,76,Married,Other/Sub Degree,Welsh,White,Wales,0.0,No
+Male,33,Married,No Qualification,British,Asian,Wales,7800.0,No
+Male,61,Separated,No Qualification,Welsh,White,Wales,0.0,Yes
+Female,82,Widowed,No Qualification,Welsh,White,Wales,0.0,No
+Male,62,Married,No Qualification,Welsh,White,Wales,7800.0,No
+Male,66,Divorced,No Qualification,Welsh,White,Wales,0.0,No
+Female,69,Widowed,No Qualification,Welsh,White,Wales,1300.0,No
+Female,25,Married,No Qualification,Other,Asian,Wales,0.0,No
+Male,29,Single,Degree,Welsh,White,Wales,24700.0,No
+Male,28,Married,Degree,British,White,Wales,13000.0,No
+Female,52,Single,Degree,Other,White,Wales,32500.0,No
+Female,81,Widowed,No Qualification,Welsh,White,Wales,0.0,No
+Female,44,Married,GCSE/O Level,Welsh,White,Wales,13000.0,Yes
+Female,62,Married,GCSE/O Level,Welsh,White,Wales,0.0,No
+Male,45,Married,No Qualification,Welsh,White,Wales,3900.0,No
+Female,71,Widowed,No Qualification,Welsh,White,Wales,7800.0,No
+Female,72,Married,No Qualification,Welsh,White,Wales,3900.0,No
+Female,69,Widowed,No Qualification,English,White,Wales,0.0,Yes
+Female,72,Widowed,No Qualification,Welsh,White,Wales,3900.0,Yes
+Male,61,Married,No Qualification,Welsh,White,Wales,7800.0,No
+Female,29,Married,A Levels,British,White,Wales,3900.0,Yes
+Female,37,Single,Higher/Sub Degree,British,White,Wales,7800.0,Yes
+Male,29,Single,GCSE/O Level,Welsh,White,Wales,18200.0,Yes
+Male,57,Married,No Qualification,English,White,Wales,13000.0,No
+Male,60,Married,GCSE/O Level,Welsh,White,Wales,7800.0,No
+Male,38,Married,Higher/Sub Degree,Welsh,White,Wales,32500.0,No
+Male,74,Married,No Qualification,Welsh,White,Wales,7800.0,No
+Male,38,Married,Higher/Sub Degree,Welsh,White,Wales,13000.0,No
+Female,51,Divorced,GCSE/O Level,Welsh,White,Wales,0.0,No
+Male,68,Married,No Qualification,Welsh,White,Wales,3900.0,Yes
+Male,67,Married,Higher/Sub Degree,Welsh,White,Wales,13000.0,No
+Male,32,Single,GCSE/O Level,Welsh,White,Wales,13000.0,No
+Female,25,Married,ONC/BTEC,British,Asian,Wales,7800.0,No
+Male,53,Married,No Qualification,Welsh,White,Wales,18200.0,No
+Female,52,Divorced,No Qualification,Welsh,Unknown,Wales,7800.0,Yes
+Female,21,Single,No Qualification,Welsh,White,Wales,3900.0,No
+Female,71,Divorced,No Qualification,Welsh,White,Wales,7800.0,No
+Female,30,Married,GCSE/O Level,British,White,Wales,1300.0,No
+Male,23,Single,GCSE/O Level,Welsh,White,Wales,18200.0,No
+Female,28,Single,Higher/Sub Degree,Welsh,White,Wales,13000.0,Yes
+Female,37,Married,GCSE/O Level,Welsh,White,Wales,7800.0,No
+Female,84,Widowed,No Qualification,Welsh,White,Wales,3900.0,No
+Female,61,Married,No Qualification,English,White,Wales,3900.0,No
+Female,18,Single,GCSE/O Level,Welsh,White,Wales,3900.0,No
+Female,55,Married,GCSE/O Level,English,White,Wales,7800.0,No
+Male,52,Single,Higher/Sub Degree,British,White,Wales,24700.0,No
+Female,46,Married,No Qualification,Welsh,White,Wales,3900.0,Yes
+Female,46,Married,Other/Sub Degree,British,White,Wales,13000.0,No
+Male,23,Single,No Qualification,Welsh,White,Wales,3900.0,No
+Male,58,Married,Degree,British,White,Wales,24700.0,No
+Male,16,Single,GCSE/O Level,Welsh,White,Wales,1300.0,No
+Male,71,Married,No Qualification,Welsh,White,Wales,18200.0,No
+Female,47,Married,No Qualification,British,White,Wales,3900.0,Yes
+Male,34,Married,Degree,Welsh,White,Wales,24700.0,No
+Female,55,Single,No Qualification,British,White,Wales,18200.0,No
+Female,78,Widowed,Other/Sub Degree,British,White,Wales,24700.0,No
+Male,35,Single,No Qualification,Welsh,White,Wales,3900.0,Yes
+Male,68,Married,No Qualification,English,White,Wales,24700.0,No
+Male,76,Single,No Qualification,British,White,Wales,7800.0,No
+Male,28,Single,GCSE/CSE,Welsh,White,Wales,13000.0,No
+Female,36,Divorced,GCSE/CSE,British,White,Wales,7800.0,Yes
+Female,57,Divorced,ONC/BTEC,English,White,Wales,7800.0,No
+Female,29,Single,Higher/Sub Degree,Welsh,White,Wales,13000.0,Yes
+Female,27,Single,GCSE/O Level,Welsh,White,Wales,7800.0,Yes
+Female,64,Widowed,No Qualification,English,White,Wales,3900.0,No
+Female,89,Single,No Qualification,Welsh,White,Wales,0.0,No
+Female,26,Single,GCSE/CSE,Welsh,White,Wales,3900.0,Yes
+Male,27,Single,Higher/Sub Degree,Welsh,White,Wales,24700.0,No
+Male,66,Single,Higher/Sub Degree,English,White,Wales,13000.0,No
+Female,84,Widowed,No Qualification,British,White,Wales,7800.0,No
+Male,41,Single,Higher/Sub Degree,British,White,Wales,24700.0,Yes
+Male,27,Single,Degree,British,White,Wales,18200.0,No
+Female,40,Divorced,GCSE/O Level,English,White,Wales,13000.0,No
+Female,79,Widowed,No Qualification,British,White,Wales,13000.0,No
+Male,49,Married,No Qualification,English,White,Wales,24700.0,Yes
+Female,79,Widowed,No Qualification,British,White,Wales,0.0,No
+Female,54,Married,No Qualification,Welsh,White,Wales,1300.0,No
+Male,25,Single,GCSE/O Level,Scottish,White,Scotland,7800.0,Yes
+Female,45,Single,Degree,Scottish,White,Scotland,32500.0,Yes
+Female,24,Single,Degree,Scottish,White,Scotland,7800.0,Yes
+Female,54,Divorced,No Qualification,Scottish,White,Scotland,13000.0,Yes
+Female,78,Widowed,No Qualification,Scottish,White,Scotland,18200.0,No
+Male,50,Married,No Qualification,Scottish,White,Scotland,13000.0,Yes
+Female,42,Married,Degree,Scottish,White,Scotland,24700.0,No
+Female,32,Single,A Levels,Scottish,White,Scotland,13000.0,Yes
+Male,75,Single,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,25,Single,GCSE/O Level,Scottish,White,Scotland,1300.0,Yes
+Male,50,Separated,Higher/Sub Degree,Scottish,White,Scotland,24700.0,No
+Male,24,Single,Higher/Sub Degree,Scottish,White,Scotland,32500.0,Yes
+Male,35,Single,Higher/Sub Degree,British,White,Scotland,32500.0,No
+Female,52,Married,No Qualification,Scottish,White,Scotland,13000.0,No
+Female,42,Married,Degree,British,White,Scotland,13000.0,No
+Male,44,Separated,GCSE/O Level,Scottish,White,Scotland,18200.0,No
+Male,67,Widowed,No Qualification,Scottish,White,Scotland,7800.0,Yes
+Female,69,Widowed,No Qualification,Scottish,White,Scotland,3900.0,No
+Female,91,Single,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,61,Divorced,No Qualification,Scottish,White,Scotland,3900.0,No
+Female,50,Single,Degree,British,White,Scotland,24700.0,No
+Male,37,Single,Higher/Sub Degree,Scottish,White,Scotland,24700.0,No
+Female,35,Single,Higher/Sub Degree,Scottish,White,Scotland,18200.0,Yes
+Male,24,Single,Higher/Sub Degree,British,White,Scotland,13000.0,Yes
+Female,39,Single,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,79,Divorced,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,40,Married,Degree,Scottish,White,Scotland,18200.0,No
+Male,60,Married,Degree,British,White,Scotland,18200.0,No
+Male,42,Married,No Qualification,Scottish,White,Scotland,24700.0,No
+Male,64,Widowed,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Female,55,Married,GCSE/O Level,Scottish,White,Scotland,18200.0,Yes
+Male,54,Married,Other/Sub Degree,Scottish,White,Scotland,13000.0,No
+Female,61,Married,Higher/Sub Degree,British,White,Scotland,13000.0,No
+Female,62,Divorced,Higher/Sub Degree,Scottish,White,Scotland,7800.0,No
+Female,59,Divorced,Degree,Scottish,White,Scotland,0.0,No
+Female,79,Widowed,GCSE/CSE,Scottish,White,Scotland,0.0,No
+Female,37,Married,Degree,British,White,Scotland,13000.0,No
+Female,55,Married,Other/Sub Degree,Scottish,White,Scotland,3900.0,Yes
+Female,88,Widowed,Higher/Sub Degree,Scottish,White,Scotland,32500.0,No
+Female,39,Divorced,Degree,British,White,Scotland,18200.0,No
+Male,34,Single,Degree,British,White,Scotland,18200.0,No
+Male,42,Married,Degree,Scottish,White,Scotland,32500.0,No
+Female,45,Married,Degree,British,White,Scotland,3900.0,No
+Male,59,Married,ONC/BTEC,Scottish,White,Scotland,18200.0,No
+Male,58,Married,GCSE/O Level,British,White,Scotland,13000.0,Yes
+Male,74,Widowed,Higher/Sub Degree,British,White,Scotland,7800.0,No
+Male,45,Married,GCSE/O Level,Scottish,White,Scotland,24700.0,No
+Male,64,Married,No Qualification,Scottish,White,Scotland,13000.0,No
+Male,53,Single,Higher/Sub Degree,Scottish,White,Scotland,18200.0,No
+Male,40,Married,GCSE/O Level,Scottish,White,Scotland,18200.0,No
+Male,30,Married,ONC/BTEC,Scottish,White,Scotland,18200.0,Yes
+Male,70,Married,No Qualification,Scottish,White,Scotland,13000.0,No
+Female,28,Separated,ONC/BTEC,Scottish,White,Scotland,7800.0,No
+Female,78,Widowed,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,41,Married,A Levels,Scottish,White,Scotland,24700.0,Yes
+Female,69,Divorced,No Qualification,British,White,Scotland,7800.0,No
+Male,54,Married,GCSE/O Level,Scottish,White,Scotland,24700.0,No
+Male,59,Married,ONC/BTEC,Scottish,White,Scotland,18200.0,Yes
+Female,23,Single,GCSE/O Level,Scottish,White,Scotland,7800.0,Yes
+Male,40,Married,No Qualification,Scottish,White,Scotland,18200.0,Yes
+Male,17,Single,GCSE/O Level,Scottish,White,Scotland,7800.0,Yes
+Male,54,Single,No Qualification,British,White,Scotland,7800.0,No
+Female,49,Divorced,No Qualification,Scottish,White,Scotland,7800.0,No
+Male,55,Married,Higher/Sub Degree,Scottish,White,Scotland,7800.0,Yes
+Male,51,Widowed,ONC/BTEC,Scottish,White,Scotland,7800.0,Yes
+Female,73,Married,No Qualification,Scottish,White,Scotland,1300.0,No
+Female,41,Married,No Qualification,Scottish,White,Scotland,3900.0,No
+Female,70,Married,GCSE/O Level,British,White,Scotland,24700.0,No
+Female,44,Separated,No Qualification,Scottish,White,Scotland,13000.0,Yes
+Male,51,Divorced,No Qualification,Scottish,White,Scotland,1300.0,No
+Male,68,Married,Degree,Irish,White,Scotland,32500.0,Yes
+Female,75,Separated,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,60,Married,No Qualification,Scottish,White,Scotland,7800.0,Yes
+Male,56,Married,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,64,Widowed,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,27,Single,Degree,Scottish,White,Scotland,13000.0,No
+Female,73,Widowed,No Qualification,Scottish,White,Scotland,7800.0,Yes
+Male,34,Single,GCSE/O Level,Scottish,White,Scotland,18200.0,Yes
+Male,47,Married,GCSE/O Level,British,White,Scotland,13000.0,Yes
+Male,32,Single,A Levels,Scottish,White,Scotland,13000.0,No
+Male,63,Married,No Qualification,British,White,Scotland,18200.0,No
+Female,23,Single,Degree,Scottish,White,Scotland,7800.0,No
+Female,63,Married,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,46,Divorced,A Levels,Scottish,White,Scotland,18200.0,No
+Male,48,Single,A Levels,Scottish,White,Scotland,13000.0,No
+Male,68,Married,No Qualification,Scottish,White,Scotland,7800.0,No
+Male,52,Separated,No Qualification,Scottish,White,Scotland,18200.0,Yes
+Female,29,Separated,No Qualification,Scottish,White,Scotland,18200.0,Yes
+Female,16,Single,No Qualification,Scottish,White,Scotland,0.0,No
+Male,41,Divorced,A Levels,Scottish,White,Scotland,18200.0,No
+Female,48,Widowed,No Qualification,Scottish,White,Scotland,7800.0,Yes
+Male,24,Single,A Levels,Scottish,White,Scotland,7800.0,No
+Male,72,Widowed,No Qualification,Scottish,White,Scotland,7800.0,Yes
+Male,45,Married,GCSE/O Level,British,White,Scotland,18200.0,No
+Female,28,Married,Degree,British,White,Scotland,32500.0,No
+Male,20,Single,A Levels,Scottish,White,Scotland,7800.0,No
+Female,69,Widowed,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,70,Married,No Qualification,Scottish,White,Scotland,1300.0,No
+Male,50,Married,GCSE/CSE,Scottish,White,Scotland,18200.0,Yes
+Male,63,Married,A Levels,Scottish,White,Scotland,7800.0,Yes
+Male,44,Married,GCSE/O Level,British,White,Scotland,18200.0,No
+Female,83,Widowed,No Qualification,Scottish,White,Scotland,7800.0,No
+Female,17,Single,GCSE/CSE,Scottish,White,Scotland,7800.0,Yes
+Female,61,Married,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Female,47,Married,GCSE/O Level,Scottish,White,Scotland,7800.0,Yes
+Male,57,Married,Degree,Scottish,White,Scotland,32500.0,No
+Female,44,Married,GCSE/O Level,Scottish,White,Scotland,7800.0,Yes
+Male,52,Single,GCSE/CSE,Irish,White,Scotland,18200.0,Yes
+Male,82,Married,No Qualification,Scottish,White,Scotland,7800.0,No
+Male,63,Married,A Levels,Scottish,White,Scotland,32500.0,No
+Female,72,Separated,No Qualification,Scottish,White,Scotland,3900.0,No
+Male,39,Married,Higher/Sub Degree,Scottish,White,Scotland,18200.0,No
+Male,16,Single,No Qualification,Scottish,White,Scotland,0.0,No
+Female,35,Divorced,Degree,Scottish,White,Scotland,18200.0,No
+Female,39,Married,Degree,Scottish,White,Scotland,13000.0,No
+Male,56,Separated,No Qualification,Scottish,White,Scotland,0.0,Yes
+Female,31,Single,Other/Sub Degree,Scottish,White,Scotland,7800.0,Yes
+Male,61,Married,No Qualification,Scottish,White,Scotland,1300.0,No
+Male,23,Separated,GCSE/O Level,Scottish,White,Scotland,1300.0,Yes
+Male,34,Single,No Qualification,Scottish,White,Scotland,13000.0,Yes
+Male,24,Single,Degree,Scottish,White,Scotland,18200.0,No
+Male,82,Single,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Male,27,Married,A Levels,Scottish,White,Scotland,18200.0,No
+Female,62,Divorced,GCSE/CSE,Scottish,White,Scotland,3900.0,Yes
+Male,39,Married,Higher/Sub Degree,British,White,Scotland,24700.0,No
+Male,44,Separated,No Qualification,Scottish,White,Scotland,3900.0,No
+Female,43,Single,No Qualification,British,White,Scotland,13000.0,Yes
+Male,31,Single,GCSE/O Level,Scottish,White,Scotland,3900.0,Yes
+Male,77,Divorced,Other/Sub Degree,English,White,Scotland,7800.0,Yes
+Female,20,Single,GCSE/O Level,English,White,Scotland,7800.0,No
+Female,81,Widowed,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Female,31,Single,GCSE/O Level,Scottish,White,Scotland,18200.0,Yes
+Female,78,Married,Other/Sub Degree,Scottish,White,Scotland,3900.0,No
+Male,35,Married,A Levels,Scottish,White,Scotland,13000.0,No
+Female,67,Widowed,No Qualification,Scottish,White,Scotland,1300.0,No
+Male,65,Divorced,Other/Sub Degree,Scottish,White,Scotland,13000.0,No
+Male,61,Married,Higher/Sub Degree,Scottish,White,Scotland,13000.0,No
+Male,24,Single,No Qualification,Scottish,White,Scotland,1300.0,Yes
+Male,53,Single,No Qualification,Scottish,White,Scotland,24700.0,No
+Female,63,Married,No Qualification,British,White,Scotland,0.0,No
+Male,35,Married,No Qualification,Scottish,White,Scotland,13000.0,Yes
+Male,78,Widowed,No Qualification,Scottish,White,Scotland,0.0,No
+Female,31,Single,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Male,22,Single,No Qualification,Scottish,White,Scotland,3900.0,No
+Female,49,Divorced,Other/Sub Degree,English,White,Scotland,3900.0,Yes
+Male,45,Married,Other/Sub Degree,Scottish,White,Scotland,7800.0,No
+Female,51,Married,No Qualification,English,White,Scotland,3900.0,Yes
+Male,31,Married,Degree,Scottish,White,Scotland,13000.0,No
